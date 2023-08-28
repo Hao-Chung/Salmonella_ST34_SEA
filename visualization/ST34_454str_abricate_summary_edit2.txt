@@ -1,0 +1,455 @@
+ID	Country	Region	year	host_class	serovar	presentation	number_acquired_AMR_genes	fastbaps1	fastbaps2	mapping_coverage	include_BEAST	clonal_clade	IncA/C2_1	IncHI2_1	IncQ1_1	ARR-3	aac(3)-Iia	aac(3)-Iid	aac(3)-IVa	aac(3)-Via	aac(6')-Iia	aph(3')-Iia	aph(3')-Ia	aph(4)-Ia	aac(6')-Iaa	aadA	ant(3'')-Ia	strA	strB	blaCMY-2	blaCMY-42	blaCTX-M-14	blaCTX-M-15	blaCTX-M-55	blaCTX-M-65	blaDHA-1	blaOXA-1	blaTEM	catA2	catB3	cmlA1	floR	dfrA12	dfrA14	dfrA_other	sul1	sul2	sul3	ere	erm(F)	erm(T)	mef(B)	mph	fosA3	lnu(F)	mcr-1.1	mcr-3.11	mcr-3.1	mcr-3.2	mcr-4.1	mcr-5.1	oqxAB	qnrB	qnrS	aac(6')-Ib-cr	tet(AB)	tet(M)
+01_0012	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	92	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0014	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	2	4	14	150	1	mclade7	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0024	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	8	4	12	161		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0048	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	153	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0050	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	149			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0052	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	12	1	7	128	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0057	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	117	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0063	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	13	1	7	125		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0067	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	14	157		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0119	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	12	143		VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0158	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	12	1	7	129		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0168	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	131		mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0186	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	13	1	7	131		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0204	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	12	119		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0234	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	147	1	mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0254	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	142		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0271	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	3	6	152		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0273	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	14	141		VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0280	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	12	136	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0284	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	11	3	6	140		VN1	.	1	.	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1
+01_0286	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	129	1	VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0287	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	14	144		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0294	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	13	122		VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0309	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	13	125		VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+01_0396	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	3	6	86	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0410	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	3	6	154		VN1	.	.	.	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0436	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	3	6	156		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0452	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	133	1	mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0464	Vietnam	Southeast Asia	2015	human	Typhimurium	diarrhoea	12	1	7	126	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0470	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	105	1	VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0481	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	13	123		VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0509	Vietnam	Southeast Asia	2015	human	Typhimurium	diarrhoea	13	1	7	85		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0510	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	143		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0528	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	8	4	13	142		VN3	.	1	.	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0534	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	171	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0600	Vietnam	Southeast Asia	2015	human	Typhimurium	diarrhoea	12	1	7	124		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0635	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	2	4	14	94		mclade7	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0655	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	12	101		VN2	1	.	1	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0696	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	16	4	13	116	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0721	Vietnam	Southeast Asia	2015	human	Typhimurium	diarrhoea	13	1	7	120		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0742	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	121		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0753	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	12	125	1	VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0785	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	14	97		mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1
+01_0792	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	106	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0835	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	132		VN3	.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0849	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	121		VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0854	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	2	4	14	167		mclade7	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0860	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	18	1	11	159	1		.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+01_0900	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	150	1	mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+01_0906	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	142	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+01_0907	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	16	4	14	130			.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	1	0
+01_0931	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	14	109		mclade6	.	1	1	0	0	1	0	0	0	0	1	0	1	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+01_0934	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	166		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+01_0936	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	15	1	7	125	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0
+02_0005	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	14	185		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_0011	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	3	6	151	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_0030	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	149		VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_0040	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	13	142		VN3	.	1	1	1	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_0069	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	12	130		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1006	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	120		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1023	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	143	1	VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1035	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	7	4	14	132	1	mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+02_1041	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	14	123		mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+02_1042	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	123		mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1051	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	2	4	14	108		mclade7	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1060	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	12	1	7	123	1	VN4	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1063	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	11	1	7	118		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1064	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	107		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1071	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	14	149		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1089	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	14	97	1	VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1190	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	114	1	VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_1193	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	3	6	134		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1206	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	14	1	7	158		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1249	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	85	1	mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1273	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	12	181	1	VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1302	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	171		mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1317	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	14	146		mclade9	.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+02_1347	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	16	4	13	138	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_1380	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	14	137		mclade9	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1
+02_1428	Vietnam	Southeast Asia	2015	human	Typhimurium	diarrhoea	11	1	7	156	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1439	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	145	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1447	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	142		VN3	.	1	.	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_1449	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	13	142		VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1481	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	1	7	155		VN4	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1489	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	144		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1508	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	3	5	153	1		.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+02_1510	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	145		VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1566	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	134	1	VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_1587	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	3	6	139		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+02_1636	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	4	13	142		VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+02_1644	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	132		VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+02_1675	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	133		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_1687	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	12	111	1	VN2	1	1	.	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	1
+02_1688	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	127	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1701	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	117		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_1716	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	14	4	13	116		VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+02_1796	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	129		VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1871	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	13	1	7	127	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_1874	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	2	4	14	123	1	mclade7	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_2011	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	14	121		VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_2022	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	121		VN1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_2029	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	124		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+02_2056	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	3	6	142	1	VN1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_2087	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	144		VN1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_2103	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	13	152		VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_2117	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	14	145		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+02_2170	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	123	1	VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+02_2184	Vietnam	Southeast Asia	2016	human	Typhimurium	diarrhoea	11	1	7	116		VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+03_0029	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	136		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+03_0051	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	127		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0087	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	125	1	VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+03_0115	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	133		VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+03_0121	Vietnam	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	14	130		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0122	Vietnam	Southeast Asia	2014	human	Typhimurium	diarrhoea	6	1	7	140	1	VN4	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0242	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	11	4	12	116		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0281	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	3	6	124	1	VN1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0292	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	12	134	1	VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0294	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	121		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0300	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	84	1	VN1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0324	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	13	117	1	VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0339	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	117		VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+03_0368	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	114	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0443	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	12	76		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0471	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	4	13	83		VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0505	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	13	98		VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0583	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	89		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0655	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	7	4	14	98		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0667	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	10	4	12	90		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+03_0726	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	9	3	6	87		VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+03_0758	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	15	4	13	86	1	VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+03_0770	Vietnam	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	diarrhoea	12	4	12	83	1	VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+03_0876	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	101		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+03_0960	Vietnam	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	95	1	mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+110952	UK	Europe	2015	human	"I 1,4,[5],12:i:-"	 	1	4	14	47	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+157320	UK	Europe	2015	human	"I 1,4,[5],12:i:-"	 	6	3	4	51			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+178747	UK	Europe	2015	human	"I 1,4,[5],12:i:-"	 	6	3	4	66	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+192898	UK	Europe	2015	human	"I 1,4,[5],12:i:-"	 	8	1	10	41	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+197012	UK	Europe	2015	human	"I 1,4,[5],12:i:-"	 	2	3	4	55			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+2015K-1486	USA	America	2015	human	"I 1,4,[5],12:i:-"	 	6	4	13	59	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+273494	UK	Europe	2016	human	"I 1,4,[5],12:i:-"	 	6	3	4	68	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+287555	UK	Europe	2016	human	"I 1,4,[5],12:i:-"	 	6	3	4	64			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+296292	UK	Europe	2016	human	"I 1,4,[5],12:i:-"	 	6	3	5	64	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+320173	UK	Europe	2016	human	"I 1,4,[5],12:i:-"	 	6	4	14	60	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+323102	UK	Europe	2016	human	"I 1,4,[5],12:i:-"	 	6	4	14	69			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+333412	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	45	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+335526	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	5	3	4	59			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+335554	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	3	4	14	61	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+340265	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	4	14	69			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+341361	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	50			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+341369	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	5	45	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+342651	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	47	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+346524	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	72			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+346610	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	12	3	5	52			.	1	1	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+360514	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	48			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+362080	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	60			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+364206	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	8	1	10	57	1		.	.	1	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+365399	UK	Europe	2017	human	"I 1,4,[5],12:i:-"	 	6	3	4	57	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+45225	UK	Europe	2014	human	"I 1,4,[5],12:i:-"	 	6	3	5	40	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+68969	UK	Europe	2014	human	"I 1,4,[5],12:i:-"	 	5	4	14	54	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+71_G_450	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	12	4	14	51	1	VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+71_H_034	Vietnam	Southeast Asia	2012	cattle	Typhimurium	asymptomatic	19	2	1	41	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0
+71_H_035	Vietnam	Southeast Asia	2012	cattle	Typhimurium	asymptomatic	19	2	1	42		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0
+71_H_051	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	44		mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+71_H_052	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	47		mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+71_H_053	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	46	1	mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+71_H_455	Vietnam	Southeast Asia	2012	cattle	Typhimurium	asymptomatic	19	2	1	81		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0
+72_H_033	Vietnam	Southeast Asia	2012	cattle	Typhimurium	asymptomatic	17	2	1	43		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0
+72_H_265	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	14	4	13	42	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+73_G_047	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	48			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+73_G_049	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	48	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+73_G_050	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	43			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+73_G_051	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	46			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+73_H_129	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	6	3	6	46	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+73_H_172	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	11	4	14	43		VN2	1	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+73_H_243	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	11	4	13	43		VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+74_H_072	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	diarrhoea	14	4	13	43		VN3	.	1	.	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+74_H_125	Vietnam	Southeast Asia	2012	cattle	Typhimurium	diarrhoea	21	1	11	48	1		.	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+74_H_126	Vietnam	Southeast Asia	2012	cattle	Typhimurium	asymptomatic	21	1	11	45			.	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+74_H_253	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	11	4	13	44	1	VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+74_H_256	Vietnam	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	asymptomatic	11	4	13	46		VN3	.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+74_V_235	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	14	4	13	47		VN3	.	1	.	1	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00002272	South East Asia	Southeast Asia	2013	human	Typhimurium	 	10	1	9	74	1	Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00004546	Oceania	Oceania	2015	human	"I 1,4,[5],12:i:-"	 	8	1	9	75		Australia_1	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+AUSMDU00004549	Oceania	Oceania	2015	human	"I 1,4,[5],12:i:-"	 	11	1	9	68	1	Australia_1	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00004555	Oceania	Oceania	2016	human	"I 1,4,[5],12:i:-"	 	7	4	14	75			.	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	1	0
+AUSMDU00004556	South East Asia	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	 	11	4	12	66		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00005124	Oceania	Oceania	2016	cattle	"I 1,4,[5],12:i:-"	 	9	3	3	75	1		.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00005172	Oceania	Oceania	2015	human	"I 1,4,[5],12:i:-"	 	7	3	3	83	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00005177	Oceania	Oceania	2015	cattle	"I 1,4,[5],12:i:-"	 	10	3	3	82			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00005189	Oceania	Oceania	2016	cattle	"I 1,4,[5],12:i:-"	 	10	3	3	60			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00009663	Oceania	Oceania	2017	human	"I 1,4,[5],12:i:-"	 	12	4	14	70	1		.	.	.	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1
+AUSMDU00009664	Oceania	Oceania	2017	human	"I 1,4,[5],12:i:-"	 	9	3	3	61			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00009670	Oceania	Oceania	2017	human	"I 1,4,[5],12:i:-"	 	9	3	3	65			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00011133	Oceania	Oceania	2017	cattle	"I 1,4,[5],12:i:-"	 	9	3	3	87	1		.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00011333	Oceania	Oceania	2015	cattle	"I 1,4,[5],12:i:-"	 	7	3	3	82			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00017282	South East Asia	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	 	16	4	14	113	1		.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	1	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	1
+AUSMDU00018340	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	18	4	14	68			.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0
+AUSMDU00025519	Oceania	Oceania	2007	human	"I 1,4,[5],12:i:-"	 	6	3	3	91	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025521	South East Asia	Southeast Asia	2007	human	"I 1,4,[5],12:i:-"	 	6	4	14	77	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025525	South East Asia	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	6	4	14	66			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025529	South East Asia	Southeast Asia	2012	human	"I 1,4,[5],12:i:-"	 	14	4	13	72	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025530	Oceania	Oceania	2013	human	Typhimurium	 	6	3	5	79	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025538	Oceania	Oceania	2014	human	"I 1,4,[5],12:i:-"	 	6	3	3	88			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025539	Oceania	Oceania	2014	human	"I 1,4,[5],12:i:-"	 	6	4	14	87		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025543	Oceania	Oceania	2015	human	"I 1,4,[5],12:i:-"	 	6	4	14	90	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025546	South East Asia	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	 	6	4	13	87		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025548	South East Asia	Southeast Asia	2015	human	"I 1,4,[5],12:i:-"	 	6	4	14	95			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025553	South East Asia	Southeast Asia	2016	human	"I 1,4,[5],12:i:-"	 	10	1	7	85	1	VN4	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00025557	Oceania	Oceania	2016	human	"I 1,4,[5],12:i:-"	 	6	3	3	116			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025560	Oceania	Oceania	2017	human	"I 1,4,[5],12:i:-"	 	6	4	14	95			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00025566	Oceania	Oceania	2017	human	"I 1,4,[5],12:i:-"	 	9	3	3	87			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00026732	South East Asia	Southeast Asia	2007	human	"I 1,4,[5],12:i:-"	 	1	4	14	98			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AUSMDU00026734	Oceania	Oceania	2008	human	"I 1,4,[5],12:i:-"	 	6	3	3	107			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00026744	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	4	14	107			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027903	South East Asia	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	15	4	14	68	1		.	1	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0	1	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+AUSMDU00027906	South East Asia	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	4	4	14	77			.	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027915	South East Asia	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	9	4	14	66	1		1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+AUSMDU00027917	South East Asia	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	11	4	14	80			1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027920	South East Asia	Southeast Asia	2010	human	Typhimurium	 	11	1	9	93	1	Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027921	South East Asia	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	7	4	14	78		mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027923	South East Asia	Southeast Asia	2010	human	Typhimurium	 	9	1	9	75		Australia_1	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027925	South East Asia	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	9	4	14	74			1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027929	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	10	1	9	99	1	Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027930	Oceania	Oceania	2011	human	"I 1,4,[5],12:i:-"	 	7	3	3	67	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027933	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	12	1	9	68		Australia_1	.	1	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+AUSMDU00027934	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	11	4	14	68	1		1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027935	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	11	4	14	68			1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027936	Oceania	Oceania	2011	human	"I 1,4,[5],12:i:-"	 	12	4	14	73	1		1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027937	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	8	4	14	80			1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+AUSMDU00027941	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	13	1	9	59	1	Australia_1	.	1	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+AUSMDU00027942	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	12	4	14	74			1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027944	South East Asia	Southeast Asia	2012	human	"I 1,4,[5],12:i:-"	 	11	1	9	75	1	Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027945	South East Asia	Southeast Asia	2012	human	"I 1,4,[5],12:i:-"	 	13	4	14	85			1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027947	Oceania	Oceania	2012	human	"I 1,4,[5],12:i:-"	 	10	1	9	54		Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027950	Oceania	Oceania	2012	human	"I 1,4,[5],12:i:-"	 	7	4	14	87	1	mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027951	South East Asia	Southeast Asia	2012	human	"I 1,4,[5],12:i:-"	 	15	4	14	71			.	1	.	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0
+AUSMDU00027953	South East Asia	Southeast Asia	2013	human	"I 1,4,[5],12:i:-"	 	3	4	14	85			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027954	Oceania	Oceania	2013	human	"I 1,4,[5],12:i:-"	 	10	1	9	93	1	Australia_1	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027958	Oceania	Oceania	2013	human	"I 1,4,[5],12:i:-"	 	12	4	14	81	1		.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0
+AUSMDU00027961	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	12	4	14	85	1	VN2	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027965	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	11	4	14	75			.	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027966	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	11	4	14	74	1		.	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027967	Oceania	Oceania	2014	human	"I 1,4,[5],12:i:-"	 	12	4	12	70	1	VN2	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+AUSMDU00027968	Oceania	Oceania	2014	human	"I 1,4,[5],12:i:-"	 	10	1	9	72		Australia_1	1	.	.	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027969	South East Asia	Southeast Asia	2014	human	"I 1,4,[5],12:i:-"	 	10	4	14	84		VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+AUSMDU00027982	Oceania	Oceania	2014	human	"I 1,4,[5],12:i:-"	 	10	3	3	62			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00027991	Oceania	Oceania	2015	human	"I 1,4,[5],12:i:-"	 	10	3	3	72			.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028000	South East Asia	Southeast Asia	2007	human	"I 1,4,[5],12:i:-"	 	6	4	14	85			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028002	South East Asia	Southeast Asia	2007	human	"I 1,4,[5],12:i:-"	 	6	4	14	86			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028006	Oceania	Oceania	2008	human	"I 1,4,[5],12:i:-"	 	6	3	3	79	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028011	Oceania	Oceania	2009	human	"I 1,4,[5],12:i:-"	 	6	3	3	86	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028020	Oceania	Oceania	2010	human	"I 1,4,[5],12:i:-"	 	6	3	3	93	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028021	South East Asia	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	6	4	14	84			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028024	South East Asia	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	 	6	3	4	90	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028026	Oceania	Oceania	2011	human	"I 1,4,[5],12:i:-"	 	6	4	14	80			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028036	South East Asia	Southeast Asia	2013	human	"I 1,4,[5],12:i:-"	 	6	4	14	85			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028037	Oceania	Oceania	2013	human	"I 1,4,[5],12:i:-"	 	6	3	3	79	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+AUSMDU00028039	Oceania	Oceania	2013	human	Typhimurium	 	6	3	5	101			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CB12.026	Taiwan	East Asia	2012	human	"I 1,4,[5],12:i:-"	 	7	3	4	57	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN042373	Vietnam	Southeast Asia	2015	fish	"I 1,4,[5],12:i:-"	 	6	4	14	176		mclade5	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN044591	USA	America	2014	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	40		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN044637	USA	America	2014	poultry	"I 1,4,[5],12:i:-"	 	6	4	13	48	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN074889	Thailand	Southeast Asia	2010	cattle	"I 1,4,[5],12:i:-"	 	6	1	9	82		Australia_1	.	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CFSAN074894	Thailand	Southeast Asia	2010	0	"I 1,4,[5],12:i:-"	 	6	4	14	77	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN074906	Thailand	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	 	5	4	14	92	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CFSAN074911	Thailand	Southeast Asia	2012	cattle	"I 1,4,[5],12:i:-"	 	15	4	14	81	1		.	1	1	0	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+CFSAN094567	Cambodia	Southeast Asia	2018	environment	"I 1,4,[5],12:i:-"	 	6	4	14	33			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CFSAN094593	Cambodia	Southeast Asia	2018	environment	"I 1,4,[5],12:i:-"	 	6	4	14	78	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CT49_2	Vietnam	Southeast Asia	2012	poultry	Typhimurium	asymptomatic	12	1	7	88	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+CT55_1	Vietnam	Southeast Asia	2012	poultry	Typhimurium	asymptomatic	2	2	2	92	1	V-BSI	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CT69_2	Vietnam	Southeast Asia	2013	poultry	"I 1,4,[5],12:i:-"	asymptomatic	6	4	14	82	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CVM_N48691	USA	America	2013	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	37	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CVM_N56913F	USA	America	2014	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	58	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CVM_N56914F	USA	America	2014	cattle	"I 1,4,[5],12:i:-"	 	7	4	13	39		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CVM_N57161F	USA	America	2014	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	59	1	USA_1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+CVM_N57625F	USA	America	2014	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	50		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FDA426234	Vietnam	Southeast Asia	2007	fish	Typhimurium	 	14	2	2	72	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+FSIS1503567	USA	America	2015	cattle	"I 1,4,[5],12:i:-"	 	2	1	8	50	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1503595	USA	America	2015	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	54			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1503596	USA	America	2015	cattle	"I 1,4,[5],12:i:-"	 	5	4	13	53		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FSIS1503915	USA	America	2015	poultry	"I 1,4,[5],12:i:-"	 	6	4	13	52		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1504940	USA	America	2015	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	68	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1605910	USA	America	2016	poultry	"I 1,4,[5],12:i:-"	 	10	4	13	53	1	USA_1	1	.	1	0	0	0	0	1	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1606634	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	2	1	8	52			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1606873	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	2	1	8	49	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607242	USA	America	2016	poultry	"I 1,4,[5],12:i:-"	 	13	4	13	78		USA_1	1	.	1	0	0	0	0	1	0	0	1	0	1	0	1	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607340	USA	America	2016	poultry	"I 1,4,[5],12:i:-"	 	6	4	13	100		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607481	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	8	4	13	55	1	USA_1	.	.	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607648	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	64	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607909	USA	America	2016	poultry	"I 1,4,[5],12:i:-"	 	2	4	13	68		USA_1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1607911	USA	America	2015	poultry	"I 1,4,[5],12:i:-"	 	6	4	13	72		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1608032	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	2	4	13	104	1	USA_1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+FSIS1608557	USA	America	2016	cattle	"I 1,4,[5],12:i:-"	 	6	4	14	65		mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+G3	Australia	Oceania	2010	human	"I 1,4,[5],12:i:-"	 	6	3	3	43			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H1-009	Thailand	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	6	4	14	51	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H1-014	Thailand	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	12	1	9	58	1	Australia_1	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+H1-021	Thailand	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	6	4	14	50	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H1-022	Thailand	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	6	4	14	53	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H1-026	Thailand	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	 	11	4	14	161	1		1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+H1-027	Thailand	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	 	6	4	14	57	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H120600619	UK	Europe	2012	human	"I 1,4,[5],12:i:-"	 	5	3	4	47			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H122040374	UK	Europe	2012	human	"I 1,4,[5],12:i:-"	 	16	4	13	44	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+H123100308	UK	Europe	2012	human	"I 1,4,[5],12:i:-"	 	6	4	14	46	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H123560737	UK	Europe	2012	human	"I 1,4,[5],12:i:-"	 	2	3	5	47	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H123840458	UK	Europe	2012	human	"I 1,4,[5],12:i:-"	 	6	3	4	89	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H133220570	UK	Europe	2013	human	"I 1,4,[5],12:i:-"	 	2	3	4	55			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H133280322	UK	Europe	2013	human	"I 1,4,[5],12:i:-"	 	2	3	4	57			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+H133320432	UK	Europe	2013	human	"I 1,4,[5],12:i:-"	 	2	3	4	46	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Hue_11	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	16	2	2	42	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+ID8430_Sal_6	Thailand	Southeast Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	5	4	14	15			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ID8441_193	Thailand	Southeast Asia	2013	cattle	"I 1,4,[5],12:i:-"	 	10	4	14	18			.	.	1	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+ID8447_541013	Thailand	Southeast Asia	2011	cattle	"I 1,4,[5],12:i:-"	 	7	4	14	18			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+MT13C.2.2	Vietnam	Southeast Asia	2012	poultry	"I 1,4,[5],12:i:-"	asymptomatic	15	3	6	83		VN1	.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+NG14.043	Taiwan	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	8	3	3	40	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS000175	USA	America	2014	human	"I 1,4,[5],12:i:-"	 	6	4	13	50	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS000178	USA	America	2015	human	"I 1,4,[5],12:i:-"	 	6	4	13	92	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS001315	USA	America	2015	human	"I 1,4,[5],12:i:-"	 	6	4	13	35		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS003939	USA	America	2011	human	"I 1,4,[5],12:i:-"	 	6	4	13	76	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS003983	USA	America	2013	human	"I 1,4,[5],12:i:-"	 	6	4	13	63		USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PNUSAS004004	USA	America	2015	human	"I 1,4,[5],12:i:-"	 	6	3	4	86	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PS32	Taiwan	East Asia	2012	cattle	"I 1,4,[5],12:i:-"	 	6	3	3	94	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R14.0620	Taiwan	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	5	4	14	109	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+R14.0884	Taiwan	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	4	14	79	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R15.0270	Taiwan	East Asia	2015	human	"I 1,4,[5],12:i:-"	 	6	4	14	30	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R15.0289	Taiwan	East Asia	2015	human	"I 1,4,[5],12:i:-"	 	15	3	3	27			.	.	1	0	0	0	1	0	0	1	0	1	1	0	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	1	0
+R15.0291	Taiwan	East Asia	2015	human	"I 1,4,[5],12:i:-"	 	11	3	3	35	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1
+R16.0067	Taiwan	East Asia	2016	human	"I 1,4,[5],12:i:-"	 	24	3	3	26	1		.	1	1	0	0	0	1	0	0	1	0	1	1	1	0	1	1	0	0	0	0	0	0	1	0	1	0	0	1	1	1	0	0	1	1	1	0	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	0	1	0
+R16.0302	Taiwan	East Asia	2015	cattle	"I 1,4,[5],12:i:-"	 	6	4	14	61		mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R16.0309	Taiwan	East Asia	2015	cattle	"I 1,4,[5],12:i:-"	 	11	4	14	46		mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+R16.0359	Taiwan	East Asia	2015	cattle	"I 1,4,[5],12:i:-"	 	11	4	14	58	1	mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+R16.3277	Taiwan	East Asia	2016	human	"I 1,4,[5],12:i:-"	 	7	3	4	67	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R17.5127	Taiwan	East Asia	2017	human	"I 1,4,[5],12:i:-"	 	6	4	14	56	1	mclade6	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+R18.0409	Taiwan	East Asia	2018	human	"I 1,4,[5],12:i:-"	 	11	3	3	30	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1
+S12025	China	East Asia	2012	human	"I 1,4,[5],12:i:-"	 	21	1	11	168			.	1	1	1	0	0	1	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+S12095	China	East Asia	2012	human	"I 1,4,[5],12:i:-"	 	6	3	6	179	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+S14002	China	East Asia	2015	human	"I 1,4,[5],12:i:-"	 	6	4	14	178	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+S14034	China	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	4	14	205	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+S14035	China	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	3	6	183			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+S14037	China	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	3	6	180	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+S14038	China	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	6	3	6	245			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAL01315	China	East Asia	2017	cattle	"I 1,4,[5],12:i:-"	 	21	1	11	237	1		.	1	1	1	0	0	1	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0
+SAMD00097502	Japan	East Asia	2013	cattle	"I 1,4,[5],12:i:-"	 	6	3	5	66			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00097505	Japan	East Asia	2008	cattle	"I 1,4,[5],12:i:-"	 	6	3	6	139	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00097511	Japan	East Asia	2002	cattle	"I 1,4,[5],12:i:-"	 	4	1	10	133	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMD00097512	Japan	East Asia	2007	human	"I 1,4,[5],12:i:-"	 	5	1	10	47	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234571	Japan	East Asia	2003	cattle	"I 1,4,[5],12:i:-"	 	5	1	10	157	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234613	Japan	East Asia	2016	cattle	"I 1,4,[5],12:i:-"	 	6	3	5	128	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234685	Japan	East Asia	2013	cattle	"I 1,4,[5],12:i:-"	 	6	3	5	49	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234687	Japan	East Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	6	3	5	55			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234694	Japan	East Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	16	3	5	79	1		.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1
+SAMD00234746	Japan	East Asia	2015	cattle	"I 1,4,[5],12:i:-"	 	5	3	5	34	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMD00234754	Japan	East Asia	2017	cattle	"I 1,4,[5],12:i:-"	 	1	3	5	195			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMD00234762	Japan	East Asia	2017	cattle	"I 1,4,[5],12:i:-"	 	6	3	5	91	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMD00234768	Japan	East Asia	2009	cattle	"I 1,4,[5],12:i:-"	 	5	4	14	78	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA1027175	Italy	Europe	2007	human	"I 1,4,[5],12:i:-"	 	2	1	10	56			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027178	Italy	Europe	2008	cattle	"I 1,4,[5],12:i:-"	 	9	1	10	114			.	.	1	0	0	0	1	0	0	0	0	1	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027180	UK	Europe	2010	human	"I 1,4,[5],12:i:-"	 	5	3	4	208	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA1027186	Italy	Europe	2009	human	"I 1,4,[5],12:i:-"	 	6	3	4	100	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027200	Italy	Europe	2007	poultry	"I 1,4,[5],12:i:-"	 	5	1	10	101	1		.	.	.	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA1027203	Italy	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	6	4	14	148	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027210	Italy	Europe	2008	cattle	"I 1,4,[5],12:i:-"	 	6	1	10	215	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+SAMEA1027216	Italy	Europe	2007	human	"I 1,4,[5],12:i:-"	 	7	1	10	102			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+SAMEA1027217	UK	Europe	2007	human	"I 1,4,[5],12:i:-"	 	6	4	14	289	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027218	UK	Europe	2010	human	"I 1,4,[5],12:i:-"	 	6	3	4	357			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027225	UK	Europe	2007	human	"I 1,4,[5],12:i:-"	 	6	3	5	246	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027228	Italy	Europe	2006	fish	"I 1,4,[5],12:i:-"	 	6	1	10	195	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027232	UK	Europe	2007	human	"I 1,4,[5],12:i:-"	 	6	1	10	292	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027240	Italy	Europe	2006	cattle	"I 1,4,[5],12:i:-"	 	6	1	10	153	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027252	Italy	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	188	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027257	UK	Europe	2007	human	"I 1,4,[5],12:i:-"	 	6	4	14	310			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027258	Italy	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	6	1	10	151	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA1027259	Italy	Europe	2007	cattle	"I 1,4,[5],12:i:-"	 	1	1	10	201			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA1027275	Italy	Europe	2008	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	129	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA4787837	Cambodia	Southeast Asia	2016	cattle	"I 1,4,[5],12:i:-"	 	11	4	14	100	1	VN2	1	.	.	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+SAMEA4787839	Cambodia	Southeast Asia	2016	cattle	"I 1,4,[5],12:i:-"	 	15	4	14	74			.	1	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+SAMEA6101000	China	East Asia	2018	poultry	"I 1,4,[5],12:i:-"	 	12	3	6	382	1		.	.	1	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+SAMEA6101024	China	East Asia	2018	poultry	"I 1,4,[5],12:i:-"	 	12	3	6	354			.	1	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+SAMEA6101030	China	East Asia	2018	poultry	"I 1,4,[5],12:i:-"	 	14	3	6	396	1		.	.	1	1	0	0	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+SAMEA7114052	Laos	Southeast Asia		human	"I 1,4,[5],12:i:-"	 	6	4	14	63			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA7114053	Laos	Southeast Asia		human	"I 1,4,[5],12:i:-"	 	6	4	14	46			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA7115303	Laos	Southeast Asia		human	"I 1,4,[5],12:i:-"	 	6	4	14	64			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA7115313	Laos	Southeast Asia		human	"I 1,4,[5],12:i:-"	 	6	4	14	51			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA788091	UK	Europe	2007	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	51	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA788092	UK	Europe	2007	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	65			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA788097	UK	Europe	2007	cattle	"I 1,4,[5],12:i:-"	 	5	3	4	43	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA788098	UK	Europe	2007	cattle	"I 1,4,[5],12:i:-"	 	5	1	10	44	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819708	UK	Europe	2008	poultry	"I 1,4,[5],12:i:-"	 	6	3	4	125			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819709	UK	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	1	3	5	121	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA819712	UK	Europe	2010	poultry	"I 1,4,[5],12:i:-"	 	6	3	5	187			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819732	UK	Europe	2008	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	233			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819738	UK	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	192			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819740	UK	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	0	3	5	186			.	.	.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA819742	UK	Europe	2010	poultry	"I 1,4,[5],12:i:-"	 	1	3	5	159	1		.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA819747	UK	Europe	2009	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	189			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819756	UK	Europe	2009	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	141	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819758	UK	Europe	2006	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	147	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819765	UK	Europe	2010	poultry	"I 1,4,[5],12:i:-"	 	6	3	5	211			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA819782	UK	Europe	2010	poultry	"I 1,4,[5],12:i:-"	 	1	3	5	92			.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA819784	UK	Europe	2010	cattle	"I 1,4,[5],12:i:-"	 	6	3	4	168			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA8474053	Vietnam	Southeast Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	6	1	9	47	1	Australia_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SAMEA8474055	Vietnam	Southeast Asia	2014	cattle	Typhimurium	 	12	1	7	69	1	VN4	1	.	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0
+SAMEA8474059	Vietnam	Southeast Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	5	4	13	49	1	VN3	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SAMEA8474061	Vietnam	Southeast Asia	2014	cattle	"I 1,4,[5],12:i:-"	 	13	3	6	68	1	VN1	.	.	.	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+SM-112	Thailand	Southeast Asia	2019	poultry	"I 1,4,[5],12:i:-"	 	2	1	9	31	1	Australia_1	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SM-146	Thailand	Southeast Asia	2016	cattle	"I 1,4,[5],12:i:-"	 	6	4	14	48	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+SRR3474692	USA	America	2012	environment	"I 1,4,[5],12:i:-"	 	6	4	13	48	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VA-WGS-00440	USA	America	2015	cattle	"I 1,4,[5],12:i:-"	 	6	4	13	126	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNB1140	Vietnam	Southeast Asia	2010	human	Typhimurium	blood	18	2	2	100		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB1166	Vietnam	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	blood	6	4	14	34	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNB1222	Vietnam	Southeast Asia	2010	human	Typhimurium	blood	14	2	1	54	1	V-BSI	.	1	.	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB1264	Vietnam	Southeast Asia	2011	human	Typhimurium	blood	16	2	2	63		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+VNB1436	Vietnam	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	blood	8	4	14	42	1	mclade6	.	1	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+VNB1479	Vietnam	Southeast Asia	2011	human	"I 1,4,[5],12:i:-"	blood	15	3	6	55	1	VN1	.	.	1	0	0	1	0	0	0	0	0	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0
+VNB1505	Vietnam	Southeast Asia	2011	human	Typhimurium	blood	17	2	2	58	1	V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB151	Vietnam	Southeast Asia	2008	human	Typhimurium	blood	18	2	2	31		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB1701	Vietnam	Southeast Asia	2012	human	Typhimurium	blood	13	2	2	96		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB176	Vietnam	Southeast Asia	2008	human	Typhimurium	blood	18	2	2	44	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB1779	Vietnam	Southeast Asia	2012	human	Typhimurium	blood	13	2	2	46		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB177	Vietnam	Southeast Asia	2008	human	Typhimurium	blood	16	2	2	31		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+VNB1792	Vietnam	Southeast Asia	2012	human	"I 1,4,[5],12:i:-"	blood	17	2	2	48	1	V-BSI	.	.	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+VNB2140	Vietnam	Southeast Asia	2012	human	Typhimurium	blood	16	2	2	47		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+VNB2315	Vietnam	Southeast Asia	2013	human	"I 1,4,[5],12:i:-"	blood	7	4	13	47		VN3	.	1	1	0	0	0	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNB2605	Vietnam	Southeast Asia	2013	human	"I 1,4,[5],12:i:-"	blood	15	4	13	44	1	VN3	.	1	1	1	0	1	0	0	0	0	1	0	1	1	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	1	0
+VNB455	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	blood	6	3	6	31	1	VN1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNB541	Vietnam	Southeast Asia	2009	human	Typhimurium	blood	17	2	2	38		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB589	Vietnam	Southeast Asia	2009	human	Typhimurium	blood	16	2	2	40		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+VNB617	Vietnam	Southeast Asia	2009	human	Typhimurium	blood	13	2	2	39	1	V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB692	Vietnam	Southeast Asia	2009	human	Typhimurium	blood	16	2	2	53		V-BSI	.	1	.	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB712	Vietnam	Southeast Asia	2009	human	Typhimurium	blood	11	2	2	50		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+VNB745	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	blood	1	2	2	37	1	V-BSI	.	1	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VNB802	Vietnam	Southeast Asia	2010	human	Typhimurium	blood	18	2	2	31		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNB845	Vietnam	Southeast Asia	2010	human	Typhimurium	blood	6	2	2	32	1	V-BSI	.	1	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+VNB922	Vietnam	Southeast Asia	2010	human	Typhimurium	blood	17	2	1	70		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+VNS10045	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	14	1	11	47	1		.	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNS10052	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	17	1	11	46			.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNS10146	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	19	2	1	48	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0
+VNS10182	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	16	2	2	50		V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+VNS10314	Vietnam	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	65		mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS10413	Vietnam	Southeast Asia	2010	human	Typhimurium	diarrhoea	15	2	2	44		V-BSI	.	1	.	1	0	0	1	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+VNS20005	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	2	2	2	62		V-BSI	.	.	.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS20007	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	13	52	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS20081	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	19	1	11	65			.	1	.	1	0	0	1	0	0	0	1	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNS20099	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	43			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS20101	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	64		mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS20235	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	65			.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS30144	Vietnam	Southeast Asia	2009	human	Typhimurium	diarrhoea	21	1	11	61	1		.	1	1	1	0	0	1	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+VNS30243	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	32	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS30356	Vietnam	Southeast Asia	2009	human	"I 1,4,[5],12:i:-"	diarrhoea	6	4	14	75	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNS30385	Vietnam	Southeast Asia	2010	human	Typhimurium	diarrhoea	16	2	2	35	1	V-BSI	.	1	.	1	0	0	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+VNSC2045	Vietnam	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	asymptomatic	6	3	5	42	1		.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+VNSC2191	Vietnam	Southeast Asia	2010	human	"I 1,4,[5],12:i:-"	asymptomatic	7	4	14	38	1	mclade8	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Z028	China	East Asia	2012	human	"I 1,4,[5],12:i:-"	 	21	1	11	226	1		.	1	1	1	0	0	1	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0
+Z033	China	East Asia	2012	human	"I 1,4,[5],12:i:-"	 	6	4	13	188	1	USA_1	.	.	1	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Z047	China	East Asia	2014	human	"I 1,4,[5],12:i:-"	 	21	1	11	180	1		.	1	1	1	0	0	1	0	0	0	1	1	1	0	0	1	1	0	0	0	0	0	0	0	1	1	0	1	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0

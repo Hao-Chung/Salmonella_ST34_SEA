@@ -1,0 +1,562 @@
+﻿Sample_ID,data_type,Project,Accession number,Country,Region,year,host_class,serovar,presentation,BAPS,Included_Figure_1,include_BEAST_Fig2,mapping_coverage,clonal_clade,IncA/C2_plasmid,IncHI2_plasmid,blaCTX-M-55,mphA,mcr-3.1,qnrS
+01_0012,raw read,"Duong et al., 2020",ERR1764088,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,92,VN2,1,.,1,.,1,1
+01_0014,raw read,"Duong et al., 2020",ERR1764089,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,150,mc6,.,.,.,.,.,.
+01_0024,raw read,"Duong et al., 2020",ERR1788605,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,161,VN2,1,.,.,.,.,.
+01_0048,raw read,"Duong et al., 2020",ERR1764091,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,153,VN2,1,.,1,.,1,1
+01_0050,raw read,"Duong et al., 2020",ERR1788606,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,149,,.,.,.,.,.,.
+01_0052,raw read,"Duong et al., 2020",ERR1764092,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,128,VN4,1,.,.,1,1,1
+01_0057,raw read,"Duong et al., 2020",ERR1764094,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,117,VN1,.,.,.,.,.,1
+01_0063,raw read,"Duong et al., 2020",ERR1764095,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,,125,VN4,1,.,.,1,1,1
+01_0067,raw read,"Duong et al., 2020",ERR1764097,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,157,VN2,1,.,1,.,1,1
+01_0119,raw read,"Duong et al., 2020",ERR1764106,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,143,VN2,1,.,1,.,1,1
+01_0158,raw read,"Duong et al., 2020",ERR1764112,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,,129,VN4,1,.,.,1,1,1
+01_0168,raw read,"Duong et al., 2020",ERR1764114,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,131,mc8,.,.,.,.,.,.
+01_0186,raw read,"Duong et al., 2020",ERR1764119,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,,131,VN4,1,.,.,1,1,1
+01_0204,raw read,"Duong et al., 2020",ERR1764123,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,119,VN2,1,.,.,.,1,1
+01_0234,raw read,"Duong et al., 2020",ERR1764128,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,147,mc5,.,.,.,.,.,.
+01_0254,raw read,"Duong et al., 2020",ERR1764131,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN2,1,.,1,.,1,1
+01_0271,raw read,"Duong et al., 2020",ERR1764133,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,152,VN1,.,.,.,.,.,.
+01_0273,raw read,"Duong et al., 2020",ERR1764135,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,141,VN2,1,.,1,.,1,1
+01_0280,raw read,"Duong et al., 2020",ERR1764136,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,136,VN2,1,.,1,.,.,1
+01_0284,raw read,"Duong et al., 2020",ERR1788607,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,140,VN1,.,1,.,.,.,.
+01_0286,raw read,"Duong et al., 2020",ERR1764137,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,129,VN3,.,1,.,1,.,1
+01_0287,raw read,"Duong et al., 2020",ERR1764138,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,144,VN2,1,.,1,.,.,1
+01_0294,raw read,"Duong et al., 2020",ERR1764141,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,122,VN3,.,1,.,1,.,1
+01_0309,raw read,"Duong et al., 2020",ERR1764143,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,125,VN3,.,1,.,.,.,.
+01_0396,raw read,"Duong et al., 2020",ERR1788677,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,86,VN1,.,.,.,.,.,.
+01_0410,raw read,"Duong et al., 2020",ERR1764145,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,154,VN1,.,.,.,.,.,1
+01_0436,raw read,"Duong et al., 2020",ERR1764148,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,156,VN1,.,.,.,.,.,1
+01_0452,raw read,"Duong et al., 2020",ERR1764151,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,133,,.,.,.,.,.,.
+01_0464,raw read,"Duong et al., 2020",ERR1764155,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,126,VN4,1,.,.,1,1,1
+01_0470,raw read,"Duong et al., 2020",ERR1764157,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,105,VN3,.,1,.,.,.,1
+01_0481,raw read,"Duong et al., 2020",ERR1764160,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,123,VN3,.,1,.,.,.,1
+01_0509,raw read,"Duong et al., 2020",ERR1788680,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea,BAPS-1,yes,,85,VN4,1,.,.,.,1,1
+01_0510,raw read,"Duong et al., 2020",ERR1764169,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,143,VN1,.,.,.,.,.,1
+01_0528,raw read,"Duong et al., 2020",ERR1764173,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN3,.,1,.,.,.,1
+01_0534,raw read,"Duong et al., 2020",ERR1764174,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,171,VN2,1,.,1,.,1,1
+01_0600,raw read,"Duong et al., 2020",ERR1764179,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea,BAPS-1,yes,,124,VN4,1,.,.,.,1,1
+01_0635,raw read,"Duong et al., 2020",ERR1788684,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,94,mc6,.,.,.,.,.,.
+01_0655,raw read,"Duong et al., 2020",ERR1764185,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,101,VN2,1,.,1,.,1,1
+01_0696,raw read,"Duong et al., 2020",ERR1764189,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,116,VN3,.,1,.,1,.,1
+01_0721,raw read,"Duong et al., 2020",ERR1764192,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea,BAPS-1,yes,,120,VN4,1,.,.,.,1,1
+01_0742,raw read,"Duong et al., 2020",ERR1764195,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,121,VN2,1,.,1,.,.,1
+01_0753,raw read,"Duong et al., 2020",ERR1764197,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,125,VN2,1,.,1,.,1,1
+01_0785,raw read,"Duong et al., 2020",ERR1788687,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,97,,.,.,.,.,.,1
+01_0792,raw read,"Duong et al., 2020",ERR1764207,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,106,VN1,.,.,.,.,.,1
+01_0835,raw read,"Duong et al., 2020",ERR1764212,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,132,VN3,.,.,.,.,.,1
+01_0849,raw read,"Duong et al., 2020",ERR1764214,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,121,VN3,.,1,.,1,.,1
+01_0854,raw read,"Duong et al., 2020",ERR1764215,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,167,mc6,.,.,.,.,.,.
+01_0860,raw read,"Duong et al., 2020",ERR1764216,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-1,yes,yes,159,,.,1,.,.,.,.
+01_0900,raw read,"Duong et al., 2020",ERR1764225,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,150,,.,.,.,.,.,.
+01_0906,raw read,"Duong et al., 2020",ERR1764227,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,142,VN1,.,.,.,.,.,1
+01_0907,raw read,"Duong et al., 2020",ERR1764228,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,130,,.,.,.,.,1,1
+01_0931,raw read,"Duong et al., 2020",ERR1764230,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,109,,.,1,.,.,.,1
+01_0934,raw read,"Duong et al., 2020",ERR1764231,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,166,VN2,1,.,1,.,1,1
+01_0936,raw read,"Duong et al., 2020",ERR1764233,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-1,yes,yes,125,VN4,1,.,.,1,1,1
+02_0005,raw read,"Duong et al., 2020",ERR1764239,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,185,VN2,1,.,1,.,.,1
+02_0011,raw read,"Duong et al., 2020",ERR1764255,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,151,VN1,.,.,.,.,.,.
+02_0030,raw read,"Duong et al., 2020",ERR1764286,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,149,VN2,1,.,1,.,1,1
+02_0040,raw read,"Duong et al., 2020",ERR1764303,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN3,.,1,.,1,.,1
+02_0069,raw read,"Duong et al., 2020",ERR1821214,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,130,VN2,1,.,1,.,.,1
+02_1006,raw read,"Duong et al., 2020",ERR1764237,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,120,VN2,1,.,1,.,.,1
+02_1023,raw read,"Duong et al., 2020",ERR1764242,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,143,VN2,1,.,1,.,1,1
+02_1035,raw read,"Duong et al., 2020",ERR1764243,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,132,mc7,.,.,.,.,.,.
+02_1041,raw read,"Duong et al., 2020",ERR1764244,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,123,mc8,.,.,.,.,.,.
+02_1042,raw read,"Duong et al., 2020",ERR1764245,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,123,mc8,.,.,.,.,.,.
+02_1051,raw read,"Duong et al., 2020",ERR1788688,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,108,mc6,.,.,.,.,.,.
+02_1060,raw read,"Duong et al., 2020",ERR1764251,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,123,VN4,1,.,.,1,1,1
+02_1063,raw read,"Duong et al., 2020",ERR1764253,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,,118,VN4,1,.,.,1,1,1
+02_1064,raw read,"Duong et al., 2020",ERR1764254,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,107,VN1,.,.,.,.,.,1
+02_1071,raw read,"Duong et al., 2020",ERR1764256,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,149,VN2,1,.,1,.,.,1
+02_1089,raw read,"Duong et al., 2020",ERR1788689,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,97,VN2,1,.,1,.,.,1
+02_1190,raw read,"Duong et al., 2020",ERR1788698,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,114,VN3,.,1,.,.,.,1
+02_1193,raw read,"Duong et al., 2020",ERR1764266,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,134,VN1,.,.,.,.,.,1
+02_1206,raw read,"Duong et al., 2020",ERR1764268,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,,158,VN4,1,.,.,1,1,1
+02_1249,raw read,"Duong et al., 2020",ERR1788702,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,85,mc8,.,.,.,.,.,.
+02_1273,raw read,"Duong et al., 2020",ERR1764274,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,181,VN2,1,.,.,.,.,1
+02_1302,raw read,"Duong et al., 2020",ERR1764276,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,171,mc8,.,.,.,.,.,.
+02_1317,raw read,"Duong et al., 2020",ERR1788612,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,146,mc8,.,.,.,.,.,.
+02_1347,raw read,"Duong et al., 2020",ERR1764277,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,138,VN3,.,1,.,1,.,1
+02_1380,raw read,"Duong et al., 2020",ERR1764278,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,137,mc8,.,.,.,.,.,1
+02_1428,raw read,"Duong et al., 2020",ERR1764282,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,156,VN4,1,.,.,1,1,1
+02_1439,raw read,"Duong et al., 2020",ERR1764283,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,145,VN2,1,.,.,.,1,1
+02_1447,raw read,"Duong et al., 2020",ERR1764284,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN3,.,1,.,.,.,1
+02_1449,raw read,"Duong et al., 2020",ERR1764285,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN3,.,.,.,.,.,.
+02_1481,raw read,"Duong et al., 2020",ERR1764290,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-1,yes,,155,VN4,1,.,.,1,1,1
+02_1489,raw read,"Duong et al., 2020",ERR1764298,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,144,VN2,1,.,1,.,1,1
+02_1508,raw read,"Duong et al., 2020",ERR1764293,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,153,,.,.,.,.,.,.
+02_1510,raw read,"Duong et al., 2020",ERR1764294,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,145,VN2,1,.,1,.,.,1
+02_1566,raw read,"Duong et al., 2020",ERR1764305,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,134,VN3,.,1,.,.,.,1
+02_1587,raw read,"Duong et al., 2020",ERR1764312,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,139,VN1,.,.,.,.,.,.
+02_1636,raw read,"Duong et al., 2020",ERR1764321,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,142,VN3,.,1,.,1,.,1
+02_1644,raw read,"Duong et al., 2020",ERR1764322,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,132,VN3,.,1,.,1,.,1
+02_1675,raw read,"Duong et al., 2020",ERR1764328,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,133,mc5,.,.,.,.,.,.
+02_1687,raw read,"Duong et al., 2020",ERR1764331,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,111,VN2,1,1,1,.,.,1
+02_1688,raw read,"Duong et al., 2020",ERR1764332,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,127,VN2,1,.,1,.,1,1
+02_1701,raw read,"Duong et al., 2020",ERR1764334,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,117,VN1,.,.,.,.,.,1
+02_1716,raw read,"Duong et al., 2020",ERR1764336,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,116,VN3,.,1,.,1,.,1
+02_1796,raw read,"Duong et al., 2020",ERR1764341,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,129,VN2,1,.,1,.,1,1
+02_1871,raw read,"Duong et al., 2020",ERR1764350,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-1,yes,yes,127,VN4,1,.,.,1,1,1
+02_1874,raw read,"Duong et al., 2020",ERR1764351,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,123,mc6,.,.,.,.,.,.
+02_2011,raw read,"Duong et al., 2020",ERR1821201,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,121,VN2,1,.,1,.,1,1
+02_2022,raw read,"Duong et al., 2020",ERR1821202,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,121,VN1,.,.,.,.,.,1
+02_2029,raw read,"Duong et al., 2020",ERR1821206,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,124,mc5,.,.,.,.,.,.
+02_2056,raw read,"Duong et al., 2020",ERR1821208,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,142,VN1,.,.,.,.,.,1
+02_2087,raw read,"Duong et al., 2020",ERR1821215,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,144,VN1,.,.,.,.,.,1
+02_2103,raw read,"Duong et al., 2020",ERR1821229,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,152,VN3,.,.,.,.,.,1
+02_2117,raw read,"Duong et al., 2020",ERR1821218,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,145,VN2,1,.,1,.,.,1
+02_2170,raw read,"Duong et al., 2020",ERR1821227,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,123,VN2,1,.,.,.,1,1
+02_2184,raw read,"Duong et al., 2020",ERR1821232,Vietnam,Southeast Asia,2016,human,Typhimurium,diarrhoea,BAPS-1,yes,,116,VN4,1,.,.,1,1,1
+03_0029,raw read,"Duong et al., 2020",ERR1821237,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,136,VN2,1,.,1,.,1,1
+03_0051,raw read,"Duong et al., 2020",ERR1821239,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,127,mc5,.,.,.,.,.,.
+03_0087,raw read,"Duong et al., 2020",ERR1821244,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,125,VN3,.,1,.,1,.,1
+03_0115,raw read,"Duong et al., 2020",ERR1821246,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,133,VN3,.,1,.,1,.,1
+03_0121,raw read,"Duong et al., 2020",ERR1821248,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,130,VN2,1,.,1,.,.,1
+03_0122,raw read,"Duong et al., 2020",ERR1821249,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,140,VN4,.,.,.,.,.,.
+03_0242,raw read,"Duong et al., 2020",ERR1821259,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,116,VN2,1,.,1,.,.,1
+03_0281,raw read,"Duong et al., 2020",ERR1821264,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,124,VN1,.,.,.,.,.,1
+03_0292,raw read,"Duong et al., 2020",ERR1821265,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,134,VN2,1,.,1,.,.,.
+03_0294,raw read,"Duong et al., 2020",ERR1821283,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,121,VN1,.,.,.,.,.,1
+03_0300,raw read,"Duong et al., 2020",ERR1788615,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,yes,84,VN1,.,.,.,.,.,1
+03_0324,raw read,"Duong et al., 2020",ERR1821272,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,117,VN3,.,.,.,.,.,1
+03_0339,raw read,"Duong et al., 2020",ERR1821273,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,117,VN3,.,1,.,1,.,1
+03_0368,raw read,"Duong et al., 2020",ERR1821278,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,114,,.,.,.,.,.,.
+03_0443,raw read,"Duong et al., 2020",ERR1788624,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,76,VN2,1,.,1,.,.,1
+03_0471,raw read,"Duong et al., 2020",ERR1788627,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,83,VN3,.,.,.,.,.,1
+03_0505,raw read,"Duong et al., 2020",ERR1788630,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,98,VN3,.,.,.,.,.,.
+03_0583,raw read,"Duong et al., 2020",ERR1788639,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,89,mc5,.,.,.,.,.,.
+03_0655,raw read,"Duong et al., 2020",ERR1788646,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,98,VN2,1,.,.,.,.,.
+03_0667,raw read,"Duong et al., 2020",ERR1788647,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,90,VN2,1,.,.,.,1,.
+03_0726,raw read,"Duong et al., 2020",ERR1788655,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-3,yes,,87,VN1,.,.,.,.,.,1
+03_0758,raw read,"Duong et al., 2020",ERR1788657,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,86,VN3,.,1,.,1,.,1
+03_0770,raw read,"Duong et al., 2020",ERR1788659,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,83,VN2,1,.,1,.,1,1
+03_0876,raw read,"Duong et al., 2020",ERR1788669,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,101,mc5,.,.,.,.,.,.
+03_0960,raw read,"Duong et al., 2020",ERR1788675,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,95,mc5,.,.,.,.,.,.
+110952,raw read,"Arnott et al., 2018",SRR3284731,UK,Europe,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,47,,.,.,.,.,.,.
+157320,raw read,"Arnott et al., 2018",SRR3285406,UK,Europe,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,51,,.,.,.,.,.,.
+178747,raw read,"Arnott et al., 2018",SRR3284675,UK,Europe,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,66,,.,.,.,.,.,.
+192898,raw read,"Arnott et al., 2018",SRR3284691,UK,Europe,2015,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,41,,.,.,.,.,.,.
+197012,raw read,"Arnott et al., 2018",SRR3285055,UK,Europe,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,55,,.,.,.,.,.,.
+2015K-1486,raw read,"Elnekave et al., 2020",SRR3137169,USA,America,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,59,USA_1,.,.,.,.,.,.
+273494,raw read,"Arnott et al., 2018",SRR5193627,UK,Europe,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,68,,.,.,.,.,.,.
+287555,raw read,"Arnott et al., 2018",SRR5193673,UK,Europe,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,64,,.,.,.,.,.,.
+296292,raw read,"Arnott et al., 2018",SRR5193083,UK,Europe,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,64,,.,.,.,.,.,.
+320173,raw read,"Arnott et al., 2018",SRR5194210,UK,Europe,2016,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,60,,.,.,.,.,.,.
+323102,raw read,"Arnott et al., 2018",SRR5193644,UK,Europe,2016,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,69,,.,.,.,.,.,.
+333412,raw read,"Arnott et al., 2018",SRR5631558,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,45,,.,.,.,.,.,.
+335526,raw read,"Arnott et al., 2018",SRR5632117,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,59,,.,.,.,.,.,.
+335554,raw read,"Arnott et al., 2018",SRR5632160,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,61,,.,.,.,.,.,.
+340265,raw read,"Arnott et al., 2018",SRR5632036,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,69,,.,.,.,.,.,.
+341361,raw read,"Arnott et al., 2018",SRR5632200,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,50,,.,.,.,.,.,.
+341369,raw read,"Arnott et al., 2018",SRR5632860,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,45,,.,.,.,.,.,.
+342651,raw read,"Arnott et al., 2018",SRR5632868,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,47,,.,.,.,.,.,.
+346524,raw read,"Arnott et al., 2018",SRR5632048,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,72,,.,.,.,.,.,.
+346610,raw read,"Arnott et al., 2018",SRR5632733,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,52,,.,1,.,1,.,.
+360514,raw read,"Arnott et al., 2018",SRR5632173,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,48,,.,.,.,.,.,.
+362080,raw read,"Arnott et al., 2018",SRR5631627,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,60,,.,.,.,.,.,.
+364206,raw read,"Arnott et al., 2018",SRR5632073,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,57,,.,.,.,.,.,.
+365399,raw read,"Arnott et al., 2018",SRR5631935,UK,Europe,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,57,,.,.,.,.,.,.
+45225,raw read,"Arnott et al., 2018",SRR3284842,UK,Europe,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,40,,.,.,.,.,.,.
+68969,raw read,"Arnott et al., 2018",SRR1966998,UK,Europe,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,54,,.,.,.,.,.,.
+71_G_450,raw read,"Mather et al., 2018",ERR702346,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,51,VN2,1,.,1,.,1,1
+71_H_034,raw read,"Mather et al., 2018",ERR702353,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,asymptomatic,BAPS-2,yes,yes,41,V-BSI,.,1,.,.,.,1
+71_H_035,raw read,"Mather et al., 2018",ERR702352,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,asymptomatic,BAPS-2,yes,,42,V-BSI,.,1,.,.,.,1
+71_H_051,raw read,"Mather et al., 2018",ERR702356,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,44,mc7,.,.,.,.,.,.
+71_H_052,raw read,"Mather et al., 2018",ERR702355,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,47,mc7,.,.,.,.,.,.
+71_H_053,raw read,"Mather et al., 2018",ERR702354,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,46,mc7,.,.,.,.,.,.
+71_H_455,raw read,"Mather et al., 2018",ERR715595,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,asymptomatic,BAPS-2,yes,,81,V-BSI,.,1,.,.,.,1
+72_H_033,raw read,"Mather et al., 2018",ERR702361,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,asymptomatic,BAPS-2,yes,,43,V-BSI,.,1,.,.,.,1
+72_H_265,raw read,"Mather et al., 2018",ERR702362,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,42,VN3,.,1,.,1,.,1
+73_G_047,raw read,"Mather et al., 2018",ERR702349,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,48,,.,.,.,.,.,.
+73_G_049,raw read,"Mather et al., 2018",ERR702350,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,48,,.,.,.,.,.,.
+73_G_050,raw read,"Mather et al., 2018",ERR702351,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,43,,.,.,.,.,.,.
+73_G_051,raw read,"Mather et al., 2018",ERR702348,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,46,,.,.,.,.,.,.
+73_H_129,raw read,"Mather et al., 2018",ERR702368,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-3,yes,yes,46,VN1,.,.,.,.,.,.
+73_H_172,raw read,"Mather et al., 2018",ERR702370,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,43,VN2,1,.,1,.,.,1
+73_H_243,raw read,"Mather et al., 2018",ERR702371,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,43,VN3,.,1,.,.,.,1
+74_H_072,raw read,"Mather et al., 2018",ERR702373,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,43,VN3,.,1,.,1,.,1
+74_H_125,raw read,"Mather et al., 2018",ERR702374,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,diarrhoea,BAPS-1,yes,yes,48,,.,1,.,.,.,.
+74_H_126,raw read,"Mather et al., 2018",ERR702375,Vietnam,Southeast Asia,2012,cattle/swine,Typhimurium,asymptomatic,BAPS-1,yes,,45,,.,1,.,.,.,.
+74_H_253,raw read,"Mather et al., 2018",ERR702376,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,44,VN3,.,1,.,.,.,1
+74_H_256,raw read,"Mather et al., 2018",ERR702377,Vietnam,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,46,VN3,.,1,.,.,.,1
+74_V_235,raw read,"Mather et al., 2018",ERR702340,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,,47,VN3,.,1,.,1,.,1
+AUSMDU00002272,raw read,"Ingle et al., 2021",SRR14141550,South East Asia,Southeast Asia,2013,human,Typhimurium, ,BAPS-1,yes,yes,74,Australia_1,1,.,1,.,.,1
+AUSMDU00004546,raw read,"Ingle et al., 2021",SRR14141515,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,75,Australia_1,1,.,.,.,1,.
+AUSMDU00004549,raw read,"Ingle et al., 2021",SRR14141511,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,68,Australia_1,1,.,1,.,1,1
+AUSMDU00004555,raw read,"Ingle et al., 2021",SRR14141631,Oceania,Oceania,2016,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,75,,.,1,.,1,.,1
+AUSMDU00004556,raw read,"Ingle et al., 2021",SRR14141629,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,66,VN2,1,.,1,.,.,1
+AUSMDU00005124,raw read,"Ingle et al., 2021",SRR14141626,Oceania,Oceania,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,75,,.,1,.,.,.,.
+AUSMDU00005172,raw read,"Ingle et al., 2021",SRR14141516,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,83,,.,.,.,.,.,.
+AUSMDU00005177,raw read,"Ingle et al., 2021",SRR14141506,Oceania,Oceania,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,82,,.,1,.,.,.,.
+AUSMDU00005189,raw read,"Ingle et al., 2021",SRR14141627,Oceania,Oceania,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,60,,.,1,.,.,.,.
+AUSMDU00009663,raw read,"Ingle et al., 2021",SRR14141608,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,70,chrombla_China,.,.,1,.,.,1
+AUSMDU00009664,raw read,"Ingle et al., 2021",SRR14141607,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,61,,.,1,.,.,.,.
+AUSMDU00009670,raw read,"Ingle et al., 2021",SRR14141604,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,65,,.,1,.,.,.,.
+AUSMDU00011133,raw read,"Ingle et al., 2021",SRR14141600,Oceania,Oceania,2017,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,87,,.,1,.,.,.,.
+AUSMDU00011333,raw read,"Ingle et al., 2021",SRR14141518,Oceania,Oceania,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,82,,.,.,.,.,.,.
+AUSMDU00017282,raw read,"Ingle et al., 2021",SRR14141616,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,113,,.,1,1,1,.,1
+AUSMDU00018340,raw read,"Ingle et al., 2021",SRR14141527,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,68,,.,1,1,.,.,1
+AUSMDU00025519,raw read,"Ingle et al., 2021",SRR14141636,Oceania,Oceania,2007,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,91,,.,.,.,.,.,.
+AUSMDU00025521,raw read,"Ingle et al., 2021",SRR14141567,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,77,,.,.,.,.,.,.
+AUSMDU00025525,raw read,"Ingle et al., 2021",SRR14141593,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,66,,.,.,.,.,.,.
+AUSMDU00025529,raw read,"Ingle et al., 2021",SRR14141555,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,72,VN3,.,1,.,.,.,.
+AUSMDU00025530,raw read,"Ingle et al., 2021",SRR14141542,Oceania,Oceania,2013,human,Typhimurium, ,BAPS-3,yes,yes,79,,.,.,.,.,.,.
+AUSMDU00025538,raw read,"Ingle et al., 2021",SRR14141526,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,88,,.,.,.,.,.,.
+AUSMDU00025539,raw read,"Ingle et al., 2021",SRR14141520,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,87,mc5,.,.,.,.,.,.
+AUSMDU00025543,raw read,"Ingle et al., 2021",SRR14141514,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,90,,.,.,.,.,.,.
+AUSMDU00025546,raw read,"Ingle et al., 2021",SRR14141504,South East Asia,Southeast Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,87,USA_1,.,.,.,.,.,.
+AUSMDU00025548,raw read,"Ingle et al., 2021",SRR14141502,South East Asia,Southeast Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,95,,.,.,.,.,.,.
+AUSMDU00025553,raw read,"Ingle et al., 2021",SRR14141624,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,85,VN4,1,.,.,1,1,1
+AUSMDU00025557,raw read,"Ingle et al., 2021",SRR14141615,Oceania,Oceania,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,116,,.,.,.,.,.,.
+AUSMDU00025560,raw read,"Ingle et al., 2021",SRR14141611,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,95,,.,.,.,.,.,.
+AUSMDU00025566,raw read,"Ingle et al., 2021",SRR14141599,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,87,,.,1,.,.,.,.
+AUSMDU00026732,raw read,"Ingle et al., 2021",SRR14141556,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,98,,.,.,.,.,.,.
+AUSMDU00026734,raw read,"Ingle et al., 2021",SRR14141512,Oceania,Oceania,2008,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,107,,.,.,.,.,.,.
+AUSMDU00026744,raw read,"Ingle et al., 2021",SRR14141525,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,107,,.,.,.,.,.,.
+AUSMDU00027903,raw read,"Ingle et al., 2021",SRR14141623,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,68,,.,1,.,.,.,.
+AUSMDU00027906,raw read,"Ingle et al., 2021",SRR14141612,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,77,,.,1,.,1,.,.
+AUSMDU00027915,raw read,"Ingle et al., 2021",SRR14141591,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,66,SEA_min,1,.,.,.,1,.
+AUSMDU00027917,raw read,"Ingle et al., 2021",SRR14141587,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,80,,1,.,.,.,.,1
+AUSMDU00027920,raw read,"Ingle et al., 2021",SRR14141584,South East Asia,Southeast Asia,2010,human,Typhimurium, ,BAPS-1,yes,yes,93,Australia_1,1,.,1,.,.,1
+AUSMDU00027921,raw read,"Ingle et al., 2021",SRR14141583,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,78,,.,.,.,.,.,.
+AUSMDU00027923,raw read,"Ingle et al., 2021",SRR14141582,South East Asia,Southeast Asia,2010,human,Typhimurium, ,BAPS-1,yes,,75,Australia_1,1,.,1,.,.,1
+AUSMDU00027925,raw read,"Ingle et al., 2021",SRR14141580,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,74,SEA_min,1,.,.,.,.,1
+AUSMDU00027929,raw read,"Ingle et al., 2021",SRR14141577,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,99,Australia_1,1,.,1,.,.,1
+AUSMDU00027930,raw read,"Ingle et al., 2021",SRR14141576,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,67,,.,.,.,.,.,.
+AUSMDU00027933,raw read,"Ingle et al., 2021",SRR14141574,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,68,Australia_1,.,1,1,.,.,.
+AUSMDU00027934,raw read,"Ingle et al., 2021",SRR14141573,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,68,SEA_min,1,.,1,.,.,1
+AUSMDU00027935,raw read,"Ingle et al., 2021",SRR14141572,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,68,SEA_min,1,.,1,.,.,1
+AUSMDU00027936,raw read,"Ingle et al., 2021",SRR14141571,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,73,SEA_min,1,.,1,.,1,1
+AUSMDU00027937,raw read,"Ingle et al., 2021",SRR14141570,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,80,SEA_min,1,.,.,.,1,.
+AUSMDU00027941,raw read,"Ingle et al., 2021",SRR14141563,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,59,Australia_1,.,1,1,.,.,.
+AUSMDU00027942,raw read,"Ingle et al., 2021",SRR14141561,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,74,SEA_min,1,.,1,.,1,1
+AUSMDU00027944,raw read,"Ingle et al., 2021",SRR14141560,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,75,Australia_1,1,.,1,.,.,1
+AUSMDU00027945,raw read,"Ingle et al., 2021",SRR14141559,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,85,,1,.,1,.,1,1
+AUSMDU00027947,raw read,"Ingle et al., 2021",SRR14141558,Oceania,Oceania,2012,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,54,Australia_1,1,.,1,.,.,1
+AUSMDU00027950,raw read,"Ingle et al., 2021",SRR14141557,Oceania,Oceania,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,87,mc5,.,.,.,.,.,.
+AUSMDU00027951,raw read,"Ingle et al., 2021",SRR14141553,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,71,,.,1,1,.,.,1
+AUSMDU00027953,raw read,"Ingle et al., 2021",SRR14141551,South East Asia,Southeast Asia,2013,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,85,,.,.,.,.,.,.
+AUSMDU00027954,raw read,"Ingle et al., 2021",SRR14141549,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,93,Australia_1,1,.,1,.,.,1
+AUSMDU00027958,raw read,"Ingle et al., 2021",SRR14141544,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,81,,.,1,1,.,.,1
+AUSMDU00027961,raw read,"Ingle et al., 2021",SRR14141537,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,85,VN2,1,.,1,.,.,1
+AUSMDU00027965,raw read,"Ingle et al., 2021",SRR14141536,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,75,,.,.,1,.,1,1
+AUSMDU00027966,raw read,"Ingle et al., 2021",SRR14141535,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,74,,.,.,1,.,1,1
+AUSMDU00027967,raw read,"Ingle et al., 2021",SRR14141530,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,70,VN2,1,.,1,.,1,1
+AUSMDU00027968,raw read,"Ingle et al., 2021",SRR14141529,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,72,Australia_1,1,.,1,.,.,1
+AUSMDU00027969,raw read,"Ingle et al., 2021",SRR14141528,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,84,VN2,1,.,1,.,.,1
+AUSMDU00027982,raw read,"Ingle et al., 2021",SRR14141522,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,62,,.,1,.,.,.,.
+AUSMDU00027991,raw read,"Ingle et al., 2021",SRR14141519,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,72,,.,1,.,.,.,.
+AUSMDU00028000,raw read,"Ingle et al., 2021",SRR14141635,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,85,,.,.,.,.,.,.
+AUSMDU00028002,raw read,"Ingle et al., 2021",SRR14141589,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,86,,.,.,.,.,.,.
+AUSMDU00028006,raw read,"Ingle et al., 2021",SRR14141534,Oceania,Oceania,2008,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,79,,.,.,.,.,.,.
+AUSMDU00028011,raw read,"Ingle et al., 2021",SRR14141595,Oceania,Oceania,2009,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,86,,.,.,.,.,.,.
+AUSMDU00028020,raw read,"Ingle et al., 2021",SRR14141588,Oceania,Oceania,2010,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,93,,.,.,.,.,.,.
+AUSMDU00028021,raw read,"Ingle et al., 2021",SRR14141581,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,84,,.,.,.,.,.,.
+AUSMDU00028024,raw read,"Ingle et al., 2021",SRR14141575,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,90,,.,.,.,.,.,.
+AUSMDU00028026,raw read,"Ingle et al., 2021",SRR14141568,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,80,,.,.,.,.,.,.
+AUSMDU00028036,raw read,"Ingle et al., 2021",SRR14141552,South East Asia,Southeast Asia,2013,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,85,,.,.,.,.,.,.
+AUSMDU00028037,raw read,"Ingle et al., 2021",SRR14141546,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,79,,.,.,.,.,.,.
+AUSMDU00028039,raw read,"Ingle et al., 2021",SRR14141543,Oceania,Oceania,2013,human,Typhimurium, ,BAPS-3,yes,,101,,.,.,.,.,.,.
+CB12.026,raw read,Enterobase,SRR8189433,Taiwan,East Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,57,,.,.,.,.,.,.
+CFSAN042373,raw read,Enterobase,SRR2982074,Vietnam,Southeast Asia,2015,fish,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,176,mc5,.,.,.,.,.,.
+CFSAN044591,raw read,"Elnekave et al., 2020",SRR3110502,USA,America,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,40,USA_1,.,.,.,.,.,.
+CFSAN044637,raw read,"Elnekave et al., 2020",SRR3136821,USA,America,2014,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,48,USA_1,.,.,.,.,.,.
+CFSAN074889,raw read,Enterobase,SRR8523089,Thailand,Southeast Asia,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,82,Australia_1,.,1,.,.,.,.
+CFSAN074894,raw read,Enterobase,SRR8523085,Thailand,Southeast Asia,2010,,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,77,,.,.,.,.,.,.
+CFSAN074906,raw read,Enterobase,SRR8523105,Thailand,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,92,,.,.,.,.,.,.
+CFSAN074911,raw read,Enterobase,SRR8522989,Thailand,Southeast Asia,2012,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,81,,.,1,.,.,.,1
+CFSAN094567,raw read,Enterobase,SRR10051127,Cambodia,Southeast Asia,2018,environment,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,33,,.,.,.,.,.,.
+CFSAN094593,raw read,Enterobase,SRR10452789,Cambodia,Southeast Asia,2018,environment,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,78,,.,.,.,.,.,.
+CT49_2,raw read,"Mather et al., 2018",ERR715591,Vietnam,Southeast Asia,2012,poultry,Typhimurium,asymptomatic,BAPS-1,yes,yes,88,VN4,1,.,.,1,1,1
+CT55_1,raw read,"Mather et al., 2018",ERR715592,Vietnam,Southeast Asia,2012,poultry,Typhimurium,asymptomatic,BAPS-2,yes,yes,92,V-BSI,.,.,.,.,.,.
+CT69_2,raw read,"Mather et al., 2018",ERR715594,Vietnam,Southeast Asia,2013,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,82,,.,.,.,.,.,.
+CVM_N48691,raw read,"Elnekave et al., 2020",SRR2567080,USA,America,2013,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,37,USA_1,.,.,.,.,.,.
+CVM_N56913F,raw read,"Elnekave et al., 2020",SRR3295631,USA,America,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,58,,.,.,.,.,.,.
+CVM_N56914F,raw read,"Elnekave et al., 2020",SRR3295632,USA,America,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,39,USA_1,.,.,.,.,.,.
+CVM_N57161F,raw read,"Elnekave et al., 2020",SRR3295703,USA,America,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,59,USA_1,.,.,.,.,.,.
+CVM_N57625F,raw read,"Elnekave et al., 2020",SRR3295842,USA,America,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,50,USA_1,.,.,.,.,.,.
+FDA426234,raw read,Enterobase,SRR1946951,Vietnam,Southeast Asia,2007,fish,Typhimurium, ,BAPS-2,yes,yes,72,V-BSI,.,1,.,.,.,.
+FSIS1503567,raw read,"Elnekave et al., 2020",SRR3056916,USA,America,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,50,,.,.,.,.,.,.
+FSIS1503595,raw read,"Elnekave et al., 2020",SRR3062675,USA,America,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,54,,.,.,.,.,.,.
+FSIS1503596,raw read,"Elnekave et al., 2020",SRR3062671,USA,America,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,53,USA_1,.,.,.,.,.,.
+FSIS1503915,raw read,"Elnekave et al., 2020",SRR3000033,USA,America,2015,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,52,USA_1,.,.,.,.,.,.
+FSIS1504940,raw read,"Elnekave et al., 2020",SRR3098263,USA,America,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,68,USA_1,.,.,.,.,.,.
+FSIS1605910,raw read,"Elnekave et al., 2020",SRR3209794,USA,America,2016,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,53,USA_1,1,.,.,.,.,.
+FSIS1606634,raw read,"Elnekave et al., 2020",SRR3555081,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,52,,.,.,.,.,.,.
+FSIS1606873,raw read,"Elnekave et al., 2020",SRR3710268,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,49,,.,.,.,.,.,.
+FSIS1607242,raw read,"Elnekave et al., 2020",SRR3996788,USA,America,2016,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,78,USA_1,1,.,.,.,.,.
+FSIS1607340,raw read,"Elnekave et al., 2020",SRR4044905,USA,America,2016,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,100,USA_1,.,.,.,.,.,.
+FSIS1607481,raw read,"Elnekave et al., 2020",SRR4106453,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,55,USA_1,.,.,.,.,.,.
+FSIS1607648,raw read,"Elnekave et al., 2020",SRR4281399,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,64,USA_1,.,.,.,.,.,.
+FSIS1607909,raw read,"Elnekave et al., 2020",SRR4434212,USA,America,2016,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,68,USA_1,.,.,.,.,.,.
+FSIS1607911,raw read,"Elnekave et al., 2020",SRR4434215,USA,America,2015,poultry,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,72,USA_1,.,.,.,.,.,.
+FSIS1608032,raw read,"Elnekave et al., 2020",SRR4893111,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,104,USA_1,.,.,.,.,.,.
+FSIS1608557,raw read,"Elnekave et al., 2020",SRR5044957,USA,America,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,65,,.,.,.,.,.,.
+G3,raw read,Enterobase,SRR2538288,Australia,Oceania,2010,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,43,,.,.,.,.,.,.
+H1-009,raw read,Enterobase,SRR13013443,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,51,,.,.,.,.,.,.
+H1-014,raw read,Enterobase,SRR13013431,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,58,Australia_1,1,.,1,.,1,1
+H1-021,raw read,Enterobase,SRR13013428,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,50,,.,.,.,.,.,.
+H1-022,raw read,Enterobase,SRR13013427,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,53,,.,.,.,.,.,.
+H1-026,raw read,Enterobase,SRR13013435,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,161,,1,.,1,.,.,1
+H1-027,raw read,Enterobase,SRR13013425,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,57,,.,.,.,.,.,.
+H120600619,raw read,"Arnott et al., 2018",SRR1646361,UK,Europe,2012,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,47,,.,.,.,.,.,.
+H122040374,raw read,"Arnott et al., 2018",SRR1646348,UK,Europe,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,44,VN3,.,1,.,1,.,1
+H123100308,raw read,"Arnott et al., 2018",SRR1646369,UK,Europe,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,46,,.,.,.,.,.,.
+H123560737,raw read,"Arnott et al., 2018",SRR1646347,UK,Europe,2012,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,47,,.,.,.,.,.,.
+H123840458,raw read,"Arnott et al., 2018",SRR1646375,UK,Europe,2012,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,89,,.,.,.,.,.,.
+H133220570,raw read,"Arnott et al., 2018",SRR1645745,UK,Europe,2013,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,55,,.,.,.,.,.,.
+H133280322,raw read,"Arnott et al., 2018",SRR1635093,UK,Europe,2013,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,57,,.,.,.,.,.,.
+H133320432,raw read,"Arnott et al., 2018",SRR1646268,UK,Europe,2013,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,46,,.,.,.,.,.,.
+Hue_11,raw read,"Mather et al., 2018",ERR702389,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-2,yes,yes,42,V-BSI,.,1,.,.,.,.
+ID8430_Sal_6,raw read,Enterobase,SRR11806801,Thailand,Southeast Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,15,,.,.,.,.,.,.
+ID8441_193,raw read,Enterobase,SRR10172183,Thailand,Southeast Asia,2013,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,18,,.,.,.,1,.,.
+ID8447_541013,raw read,Enterobase,SRR10172159,Thailand,Southeast Asia,2011,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,18,,.,.,.,.,.,.
+MT13C.2.2,raw read,"Mather et al., 2018",ERR715590,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic,BAPS-3,yes,,83,VN1,.,.,.,.,.,1
+NG14.043,raw read,Enterobase,SRR8189491,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,40,,.,.,.,.,.,.
+PNUSAS000175,raw read,"Elnekave et al., 2020",SRR1915431,USA,America,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,50,USA_1,.,.,.,.,.,.
+PNUSAS000178,raw read,"Elnekave et al., 2020",SRR1915434,USA,America,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,92,USA_1,.,.,.,.,.,.
+PNUSAS001315,raw read,"Elnekave et al., 2020",SRR3048036,USA,America,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,35,USA_1,.,.,.,.,.,.
+PNUSAS003939,raw read,"Elnekave et al., 2020",SRR4450024,USA,America,2011,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,76,USA_1,.,.,.,.,.,.
+PNUSAS003983,raw read,"Elnekave et al., 2020",SRR4450032,USA,America,2013,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,63,USA_1,.,.,.,.,.,.
+PNUSAS004004,raw read,"Elnekave et al., 2020",SRR4841880,USA,America,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,86,,.,.,.,.,.,.
+PS32,raw read,Enterobase,SRR8189492,Taiwan,East Asia,2012,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,94,,.,.,.,.,.,.
+R14.0620,raw read,Enterobase,SRR8189443,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,109,,.,.,.,.,.,.
+R14.0884,raw read,Enterobase,SRR8189479,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,79,,.,.,.,.,.,.
+R15.0270,raw read,Enterobase,SRR8189339,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,30,,.,.,.,.,.,.
+R15.0289,raw read,Enterobase,SRR8189330,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,27,,.,.,.,1,.,.
+R15.0291,raw read,Enterobase,SRR8189373,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,35,,.,.,.,.,.,.
+R16.0067,raw read,Enterobase,SRR15827400,Taiwan,East Asia,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,26,,.,1,.,1,.,.
+R16.0302,raw read,Enterobase,SRR8189397,Taiwan,East Asia,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,61,,.,.,.,.,.,.
+R16.0309,raw read,Enterobase,SRR8189403,Taiwan,East Asia,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,46,,.,.,.,.,.,.
+R16.0359,raw read,Enterobase,SRR8189475,Taiwan,East Asia,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,58,,.,.,.,.,.,.
+R16.3277,raw read,Enterobase,SRR8189437,Taiwan,East Asia,2016,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,67,,.,.,.,.,.,.
+R17.5127,raw read,Enterobase,SRR15827390,Taiwan,East Asia,2017,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,56,,.,.,.,.,.,.
+R18.0409,raw read,Enterobase,SRR15827382,Taiwan,East Asia,2018,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,30,,.,.,.,.,.,.
+S12025,raw read,Enterobase,SRR12011338,China,East Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,168,,.,1,.,.,.,.
+S12095,raw read,Enterobase,SRR12011357,China,East Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,179,,.,.,.,.,.,.
+S14002,raw read,Enterobase,SRR12011350,China,East Asia,2015,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,178,,.,.,.,.,.,.
+S14034,raw read,Enterobase,SRR12011335,China,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,205,,.,.,.,.,.,.
+S14035,raw read,Enterobase,SRR12011334,China,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,183,,.,.,.,.,.,.
+S14037,raw read,Enterobase,SRR12011333,China,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,180,,.,.,.,.,.,.
+S14038,raw read,Enterobase,SRR12011332,China,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,245,,.,.,.,.,.,.
+SAL01315,raw read,Enterobase,SRR10178266,China,East Asia,2017,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,237,,.,1,.,.,.,.
+SAMD00097502,raw read,Enterobase,DRR107049,Japan,East Asia,2013,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,66,,.,.,.,.,.,.
+SAMD00097505,raw read,Enterobase,DRR107053,Japan,East Asia,2008,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,139,,.,.,.,.,.,.
+SAMD00097511,raw read,Enterobase,DRR107060,Japan,East Asia,2002,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,133,,.,.,.,.,.,.
+SAMD00097512,raw read,Enterobase,DRR107061,Japan,East Asia,2007,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,47,,.,.,.,.,.,.
+SAMD00234571,raw read,Enterobase,DRR236392,Japan,East Asia,2003,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,157,,.,.,.,.,.,.
+SAMD00234613,raw read,Enterobase,DRR236434,Japan,East Asia,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,128,,.,.,.,.,.,.
+SAMD00234685,raw read,Enterobase,DRR236506,Japan,East Asia,2013,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,49,,.,.,.,.,.,.
+SAMD00234687,raw read,Enterobase,DRR236508,Japan,East Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,55,,.,.,.,.,.,.
+SAMD00234694,raw read,Enterobase,DRR236515,Japan,East Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,79,,.,.,.,.,1,.
+SAMD00234746,raw read,Enterobase,DRR236567,Japan,East Asia,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,34,,.,.,.,.,.,.
+SAMD00234754,raw read,Enterobase,DRR236575,Japan,East Asia,2017,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,195,,.,.,.,.,.,.
+SAMD00234762,raw read,Enterobase,DRR236583,Japan,East Asia,2017,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,91,,.,.,.,.,.,.
+SAMD00234768,raw read,Enterobase,DRR236589,Japan,East Asia,2009,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,78,,.,.,.,.,.,.
+SAMEA1027175,raw read,"Petrovska et al., 2016",ERR056943,Italy,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,56,,.,.,.,.,.,.
+SAMEA1027178,raw read,"Petrovska et al., 2016",ERR056927,Italy,Europe,2008,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,114,,.,.,.,.,.,.
+SAMEA1027180,raw read,"Petrovska et al., 2016",ERR056901,UK,Europe,2010,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,208,,.,.,.,.,.,.
+SAMEA1027186,raw read,"Petrovska et al., 2016",ERR056926,Italy,Europe,2009,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,100,,.,.,.,.,.,.
+SAMEA1027200,raw read,"Petrovska et al., 2016",ERR056940,Italy,Europe,2007,poultry,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,101,,.,.,.,.,.,.
+SAMEA1027203,raw read,"Petrovska et al., 2016",ERR056930,Italy,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,148,,.,.,.,.,.,.
+SAMEA1027210,raw read,"Petrovska et al., 2016",ERR056929,Italy,Europe,2008,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,215,,.,.,.,.,.,.
+SAMEA1027216,raw read,"Petrovska et al., 2016",ERR056939,Italy,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,102,,.,.,.,.,.,.
+SAMEA1027217,raw read,"Petrovska et al., 2016",ERR062875,UK,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,289,,.,.,.,.,.,.
+SAMEA1027218,raw read,"Petrovska et al., 2016",ERR056909,UK,Europe,2010,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,357,,.,.,.,.,.,.
+SAMEA1027225,raw read,"Petrovska et al., 2016",ERR062880,UK,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,246,,.,.,.,.,.,.
+SAMEA1027228,raw read,"Petrovska et al., 2016",ERR056923,Italy,Europe,2006,fish,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,195,,.,.,.,.,.,.
+SAMEA1027232,raw read,"Petrovska et al., 2016",ERR062879,UK,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,292,,.,.,.,.,.,.
+SAMEA1027240,raw read,"Petrovska et al., 2016",ERR056922,Italy,Europe,2006,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,153,,.,.,.,.,.,.
+SAMEA1027252,raw read,"Petrovska et al., 2016",ERR056941,Italy,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,188,,.,.,.,.,.,.
+SAMEA1027257,raw read,"Petrovska et al., 2016",ERR062877,UK,Europe,2007,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,310,,.,.,.,.,.,.
+SAMEA1027258,raw read,"Petrovska et al., 2016",ERR056932,Italy,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,151,,.,.,.,.,.,.
+SAMEA1027259,raw read,"Petrovska et al., 2016",ERR056942,Italy,Europe,2007,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,,201,,.,.,.,.,.,.
+SAMEA1027275,raw read,"Petrovska et al., 2016",ERR056924,Italy,Europe,2008,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,129,,.,.,.,.,.,.
+SAMEA4787837,raw read,Enterobase,ERR2698814,Cambodia,Southeast Asia,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,100,VN2,1,.,1,.,1,1
+SAMEA4787839,raw read,Enterobase,ERR2698816,Cambodia,Southeast Asia,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,74,,.,1,1,.,.,1
+SAMEA6101000,raw read,Enterobase,ERR3604687,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,382,,.,.,.,.,.,.
+SAMEA6101024,raw read,Enterobase,ERR3604711,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,354,,.,1,.,.,.,1
+SAMEA6101030,raw read,Enterobase,ERR3604717,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,396,,.,.,.,.,.,1
+SAMEA7114052,raw read,Enterobase,ERR4400560,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,63,,.,.,.,.,.,.
+SAMEA7114053,raw read,Enterobase,ERR4400561,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,46,,.,.,.,.,.,.
+SAMEA7115303,raw read,Enterobase,ERR4401809,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,64,,.,.,.,.,.,.
+SAMEA7115313,raw read,Enterobase,ERR4401819,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,,51,,.,.,.,.,.,.
+SAMEA788091,raw read,"Petrovska et al., 2016",ERR024638,UK,Europe,2007,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,51,,.,.,.,.,.,.
+SAMEA788092,raw read,"Petrovska et al., 2016",ERR024639,UK,Europe,2007,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,65,,.,.,.,.,.,.
+SAMEA788097,raw read,"Petrovska et al., 2016",ERR024630,UK,Europe,2007,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,43,,.,.,.,.,.,.
+SAMEA788098,raw read,"Petrovska et al., 2016",ERR024640,UK,Europe,2007,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,44,,.,.,.,.,.,.
+SAMEA819708,raw read,"Petrovska et al., 2016",ERR038768,UK,Europe,2008,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,125,,.,.,.,.,.,.
+SAMEA819709,raw read,"Petrovska et al., 2016",ERR038767,UK,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,121,,.,.,.,.,.,.
+SAMEA819712,raw read,"Petrovska et al., 2016",ERR038766,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,187,,.,.,.,.,.,.
+SAMEA819732,raw read,"Petrovska et al., 2016",ERR038782,UK,Europe,2008,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,233,,.,.,.,.,.,.
+SAMEA819738,raw read,"Petrovska et al., 2016",ERR038785,UK,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,192,,.,.,.,.,.,.
+SAMEA819740,raw read,"Petrovska et al., 2016",ERR038786,UK,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,186,,.,.,.,.,.,.
+SAMEA819742,raw read,"Petrovska et al., 2016",ERR038787,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,159,,.,.,.,.,.,.
+SAMEA819747,raw read,"Petrovska et al., 2016",ERR039370,UK,Europe,2009,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,189,,.,.,.,.,.,.
+SAMEA819756,raw read,"Petrovska et al., 2016",ERR039371,UK,Europe,2009,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,141,,.,.,.,.,.,.
+SAMEA819758,raw read,"Petrovska et al., 2016",ERR039368,UK,Europe,2006,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,147,,.,.,.,.,.,.
+SAMEA819765,raw read,"Petrovska et al., 2016",ERR038790,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,211,,.,.,.,.,.,.
+SAMEA819782,raw read,"Petrovska et al., 2016",ERR039363,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,92,,.,.,.,.,.,.
+SAMEA819784,raw read,"Petrovska et al., 2016",ERR039372,UK,Europe,2010,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,,168,,.,.,.,.,.,.
+SAMEA8474053,raw read,Enterobase,ERR5639031,Vietnam,Southeast Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,47,Australia_1,.,.,.,.,.,.
+SAMEA8474055,raw read,Enterobase,ERR5639033,Vietnam,Southeast Asia,2014,cattle/swine,Typhimurium, ,BAPS-1,yes,yes,69,VN4,1,.,.,1,1,1
+SAMEA8474059,raw read,Enterobase,ERR5639037,Vietnam,Southeast Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,49,VN3,.,.,.,.,.,.
+SAMEA8474061,raw read,Enterobase,ERR5639039,Vietnam,Southeast Asia,2014,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-3,yes,yes,68,VN1,.,.,.,.,.,1
+SM-112,raw read,Enterobase,SRR14011950,Thailand,Southeast Asia,2019,poultry,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,31,Australia_1,.,.,.,.,.,.
+SM-146,raw read,Enterobase,SRR14011913,Thailand,Southeast Asia,2016,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,48,,.,.,.,.,.,.
+SRR3474692,raw read,Enterobase,SRR3474692,USA,America,2012,environment,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,48,USA_1,.,.,.,.,.,.
+VA-WGS-00440,raw read,"Elnekave et al., 2020",SRR2143362,USA,America,2015,cattle/swine,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,126,USA_1,.,.,.,.,.,.
+VNB1140,raw read,"Mather et al., 2018",ERR161976,Vietnam,Southeast Asia,2010,human,Typhimurium,blood,BAPS-2,yes,,100,V-BSI,.,1,.,.,.,.
+VNB1166,raw read,"Mather et al., 2018",ERR161953,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",blood,BAPS-4,yes,yes,34,,.,.,.,.,.,.
+VNB1222,raw read,"Mather et al., 2018",ERR161408,Vietnam,Southeast Asia,2010,human,Typhimurium,blood,BAPS-2,yes,yes,54,V-BSI,.,1,.,.,.,.
+VNB1264,raw read,"Mather et al., 2018",ERR161420,Vietnam,Southeast Asia,2011,human,Typhimurium,blood,BAPS-2,yes,,63,V-BSI,.,1,.,.,.,.
+VNB1436,raw read,"Mather et al., 2018",ERR161456,Vietnam,Southeast Asia,2011,human,"I 1,4,[5],12:i:-",blood,BAPS-4,yes,yes,42,,.,1,.,.,.,.
+VNB1479,raw read,"Mather et al., 2018",ERR161965,Vietnam,Southeast Asia,2011,human,"I 1,4,[5],12:i:-",blood,BAPS-3,yes,yes,55,VN1,.,.,.,.,.,1
+VNB1505,raw read,"Mather et al., 2018",ERR161977,Vietnam,Southeast Asia,2011,human,Typhimurium,blood,BAPS-2,yes,yes,58,V-BSI,.,1,.,.,.,.
+VNB151,raw read,"Mather et al., 2018",ERR161429,Vietnam,Southeast Asia,2008,human,Typhimurium,blood,BAPS-2,yes,,31,V-BSI,.,1,.,.,.,.
+VNB1701,raw read,"Mather et al., 2018",ERR161435,Vietnam,Southeast Asia,2012,human,Typhimurium,blood,BAPS-2,yes,,96,V-BSI,.,1,.,.,.,.
+VNB176,raw read,"Mather et al., 2018",ERR161453,Vietnam,Southeast Asia,2008,human,Typhimurium,blood,BAPS-2,yes,yes,44,V-BSI,.,1,.,.,.,.
+VNB1779,raw read,"Mather et al., 2018",ERR702378,Vietnam,Southeast Asia,2012,human,Typhimurium,blood,BAPS-2,yes,,46,V-BSI,.,1,.,.,.,.
+VNB177,raw read,"Mather et al., 2018",ERR161962,Vietnam,Southeast Asia,2008,human,Typhimurium,blood,BAPS-2,yes,,31,V-BSI,.,1,.,.,.,.
+VNB1792,raw read,"Mather et al., 2018",ERR702379,Vietnam,Southeast Asia,2012,human,"I 1,4,[5],12:i:-",blood,BAPS-2,yes,yes,48,V-BSI,.,.,.,.,.,.
+VNB2140,raw read,"Mather et al., 2018",ERR702382,Vietnam,Southeast Asia,2012,human,Typhimurium,blood,BAPS-2,yes,,47,V-BSI,.,1,.,.,.,.
+VNB2315,raw read,"Mather et al., 2018",ERR702385,Vietnam,Southeast Asia,2013,human,"I 1,4,[5],12:i:-",blood,BAPS-4,yes,,47,VN3,.,1,.,.,.,.
+VNB2605,raw read,"Mather et al., 2018",ERR702387,Vietnam,Southeast Asia,2013,human,"I 1,4,[5],12:i:-",blood,BAPS-4,yes,yes,44,VN3,.,1,.,1,.,1
+VNB455,raw read,"Mather et al., 2018",ERR161406,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",blood,BAPS-3,yes,yes,31,VN1,.,.,.,.,.,.
+VNB541,raw read,"Mather et al., 2018",ERR161418,Vietnam,Southeast Asia,2009,human,Typhimurium,blood,BAPS-2,yes,,38,V-BSI,.,1,.,.,.,.
+VNB589,raw read,"Mather et al., 2018",ERR161430,Vietnam,Southeast Asia,2009,human,Typhimurium,blood,BAPS-2,yes,,40,V-BSI,.,1,.,.,.,.
+VNB617,raw read,"Mather et al., 2018",ERR161454,Vietnam,Southeast Asia,2009,human,Typhimurium,blood,BAPS-2,yes,yes,39,V-BSI,.,1,.,.,.,.
+VNB692,raw read,"Mather et al., 2018",ERR161952,Vietnam,Southeast Asia,2009,human,Typhimurium,blood,BAPS-2,yes,,53,V-BSI,.,1,.,.,.,.
+VNB712,raw read,"Mather et al., 2018",ERR161407,Vietnam,Southeast Asia,2009,human,Typhimurium,blood,BAPS-2,yes,,50,V-BSI,.,1,.,.,.,.
+VNB745,raw read,"Mather et al., 2018",ERR161419,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",blood,BAPS-2,yes,yes,37,V-BSI,.,1,.,.,.,.
+VNB802,raw read,"Mather et al., 2018",ERR161443,Vietnam,Southeast Asia,2010,human,Typhimurium,blood,BAPS-2,yes,,31,V-BSI,.,1,.,.,.,.
+VNB845,raw read,"Mather et al., 2018",ERR161455,Vietnam,Southeast Asia,2010,human,Typhimurium,blood,BAPS-2,yes,yes,32,V-BSI,.,1,.,.,.,.
+VNB922,raw read,"Mather et al., 2018",ERR161964,Vietnam,Southeast Asia,2010,human,Typhimurium,blood,BAPS-2,yes,,70,V-BSI,.,1,.,.,.,.
+VNS10045,raw read,"Mather et al., 2018",ERR161390,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,47,,.,1,.,.,.,.
+VNS10052,raw read,"Mather et al., 2018",ERR161400,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-1,yes,,46,,.,1,.,.,.,.
+VNS10146,raw read,"Mather et al., 2018",ERR161448,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-2,yes,yes,48,V-BSI,.,1,.,.,.,1
+VNS10182,raw read,"Mather et al., 2018",ERR161957,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-2,yes,,50,V-BSI,.,1,.,.,.,.
+VNS10314,raw read,"Mather et al., 2018",ERR161405,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,65,mc7,.,.,.,.,.,.
+VNS10413,raw read,"Mather et al., 2018",ERR161391,Vietnam,Southeast Asia,2010,human,Typhimurium,diarrhoea,BAPS-2,yes,,44,V-BSI,.,1,.,.,.,.
+VNS20005,raw read,"Mather et al., 2018",ERR161401,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-2,yes,,62,V-BSI,.,.,.,.,.,.
+VNS20007,raw read,"Mather et al., 2018",ERR161413,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,52,,.,.,.,.,.,.
+VNS20081,raw read,"Mather et al., 2018",ERR161978,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-1,yes,,65,,.,1,.,.,.,.
+VNS20099,raw read,"Mather et al., 2018",ERR161970,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,43,,.,.,.,.,.,.
+VNS20101,raw read,"Mather et al., 2018",ERR161958,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,64,mc7,.,.,.,.,.,.
+VNS20235,raw read,"Mather et al., 2018",ERR161414,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,,65,,.,.,.,.,.,.
+VNS30144,raw read,"Mather et al., 2018",ERR161427,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea,BAPS-1,yes,yes,61,,.,1,.,.,.,.
+VNS30243,raw read,"Mather et al., 2018",ERR161451,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,32,,.,.,.,.,.,.
+VNS30356,raw read,"Mather et al., 2018",ERR161972,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea,BAPS-4,yes,yes,75,,.,.,.,.,.,.
+VNS30385,raw read,"Mather et al., 2018",ERR161394,Vietnam,Southeast Asia,2010,human,Typhimurium,diarrhoea,BAPS-2,yes,yes,35,V-BSI,.,1,.,.,.,.
+VNSC2045,raw read,"Mather et al., 2018",ERR161440,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",asymptomatic,BAPS-3,yes,yes,42,,.,.,.,.,.,.
+VNSC2191,raw read,"Mather et al., 2018",ERR161961,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",asymptomatic,BAPS-4,yes,yes,38,mc7,.,.,.,.,.,.
+Z028,raw read,Enterobase,SRR12011317,China,East Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,226,,.,1,.,.,.,.
+Z033,raw read,Enterobase,SRR12011313,China,East Asia,2012,human,"I 1,4,[5],12:i:-", ,BAPS-4,yes,yes,188,USA_1,.,.,.,.,.,.
+Z047,raw read,Enterobase,SRR12011309,China,East Asia,2014,human,"I 1,4,[5],12:i:-", ,BAPS-1,yes,yes,180,,.,1,.,.,.,.
+GCA_002091285.1,assembly,NCBI,GCA_002091285.1,USA,America,2017,human,Typhimurium,,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_003590355.1,assembly,NCBI,GCA_003590355.1,China,East Asia,2014,human,Typhimurium,,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_004240485.1,assembly,NCBI,GCA_004240485.1,USA,America,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,1,.,.,1
+GCA_005400515.1,assembly,NCBI,GCA_005400515.1,USA,America,2018,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_005503715.1,assembly,NCBI,GCA_005503715.1,USA,America,2019,human,Typhimurium,,BAPS-1,no,,,,.,1,.,.,1,.
+GCA_005655415.1,assembly,NCBI,GCA_005655415.1,USA,America,2018,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,USA_1,.,1,1,.,.,.
+GCA_005807525.1,assembly,NCBI,GCA_005807525.1,USA,America,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,1,.,1,.,.,.
+GCA_006129655.1,assembly,NCBI,GCA_006129655.1,USA,America,2017,,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_006208305.1,assembly,NCBI,GCA_006208305.1,USA,America,2018,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_006243765.1,assembly,NCBI,GCA_006243765.1,USA,America,2017,human,Typhimurium,,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_006461465.1,assembly,NCBI,GCA_006461465.1,China,East Asia,2017,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_006461745.1,assembly,NCBI,GCA_006461745.1,UK,Europe,2019,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_006526065.1,assembly,NCBI,GCA_006526065.1,Thailand,Southeast Asia,2019,Unknown,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,1,.,.,1,.
+GCA_006643545.1,assembly,NCBI,GCA_006643545.1,USA,America,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,.,1
+GCA_006961875.1,assembly,NCBI,GCA_006961875.1,USA,America,2017,Other,"I 1,4,[5],12:i:-",,BAPS-3,no,,,,.,.,1,.,.,.
+GCA_007393155.1,assembly,NCBI,GCA_007393155.1,UK,Europe,2019,human,Typhimurium,,BAPS-1,no,,,VN4,1,.,.,1,1,1
+GCA_007394575.1,assembly,NCBI,GCA_007394575.1,UK,Europe,2019,human,Typhimurium,,BAPS-1,no,,,VN4,1,.,.,1,1,1
+GCA_007550395.1,assembly,NCBI,GCA_007550395.1,UK,Europe,2017,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,VN4,1,.,.,1,1,1
+GCA_007581105.1,assembly,NCBI,GCA_007581105.1,UK,Europe,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,1,1
+GCA_007581785.1,assembly,NCBI,GCA_007581785.1,UK,Europe,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_007582465.1,assembly,NCBI,GCA_007582465.1,UK,Europe,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_007601735.1,assembly,NCBI,GCA_007601735.1,UK,Europe,2016,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,.,1,1,.,.,.
+GCA_007663225.1,assembly,NCBI,GCA_007663225.1,UK,Europe,2019,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_007664725.1,assembly,NCBI,GCA_007664725.1,UK,Europe,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,1,.,.,1
+GCA_007686905.1,assembly,NCBI,GCA_007686905.1,UK,Europe,2019,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_007767145.1,assembly,NCBI,GCA_007767145.1,UK,Europe,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,1,.,.,1
+GCA_007778325.1,assembly,NCBI,GCA_007778325.1,UK,Europe,2018,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_007788775.1,assembly,NCBI,GCA_007788775.1,UK,Europe,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,1,.,.,1
+GCA_007791295.1,assembly,NCBI,GCA_007791295.1,UK,Europe,2019,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_007908445.1,assembly,NCBI,GCA_007908445.1,Thailand,Southeast Asia,2018,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,.,.,1,.
+GCA_007981465.1,assembly,NCBI,GCA_007981465.1,UK,Europe,2019,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,.,.,1,1
+GCA_008055555.1,assembly,NCBI,GCA_008055555.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,1,1,.,1,1
+GCA_008061155.1,assembly,NCBI,GCA_008061155.1,UK,Europe,2015,human,Typhimurium,,BAPS-1,no,,,VN4,1,.,.,1,1,1
+GCA_008061995.1,assembly,NCBI,GCA_008061995.1,UK,Europe,2015,human,Typhimurium,,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_008078595.1,assembly,NCBI,GCA_008078595.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_008093845.1,assembly,NCBI,GCA_008093845.1,UK,Europe,2014,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,1,1
+GCA_008108685.1,assembly,NCBI,GCA_008108685.1,UK,Europe,2014,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,.
+GCA_008482825.1,assembly,NCBI,GCA_008482825.1,USA,America,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_008573885.1,assembly,NCBI,GCA_008573885.1,UK,Europe,2014,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_008662975.1,assembly,NCBI,GCA_008662975.1,Thailand,Southeast Asia,2013,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,SEA_min,1,.,1,.,1,1
+GCA_008744495.1,assembly,NCBI,GCA_008744495.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_008846305.1,assembly,NCBI,GCA_008846305.1,Thailand,Southeast Asia,2013,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,SEA_min,1,.,1,.,1,1
+GCA_008846465.1,assembly,NCBI,GCA_008846465.1,Thailand,Southeast Asia,2013,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,SEA_min,1,.,1,.,1,1
+GCA_008880965.1,assembly,NCBI,GCA_008880965.1,UK,Europe,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,1,.,1,1,1
+GCA_009099285.1,assembly,NCBI,GCA_009099285.1,USA,America,2016,Other,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_009313275.1,assembly,NCBI,GCA_009313275.1,USA,America,2016,Unknown,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_009509675.1,assembly,NCBI,GCA_009509675.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_009510035.1,assembly,NCBI,GCA_009510035.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_009930515.1,assembly,NCBI,GCA_009930515.1,China,East Asia,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,1,1
+GCA_009930525.1,assembly,NCBI,GCA_009930525.1,China,East Asia,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_009930535.1,assembly,NCBI,GCA_009930535.1,China,East Asia,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,1,1
+GCA_009930575.1,assembly,NCBI,GCA_009930575.1,China,East Asia,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_009930595.1,assembly,NCBI,GCA_009930595.1,China,East Asia,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_009930615.1,assembly,NCBI,GCA_009930615.1,China,East Asia,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_009930675.1,assembly,NCBI,GCA_009930675.1,China,East Asia,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,.,.,1,.,1,1
+GCA_010078375.1,assembly,NCBI,GCA_010078375.1,China,East Asia,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,1,1
+GCA_010368245.1,assembly,NCBI,GCA_010368245.1,USA,America,2020,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_010412915.1,assembly,NCBI,GCA_010412915.1,USA,America,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_010441115.1,assembly,NCBI,GCA_010441115.1,USA,America,2015,Other,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,.,1
+GCA_010452515.1,assembly,NCBI,GCA_010452515.1,USA,America,2015,Other,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,.,1
+GCA_010460365.1,assembly,NCBI,GCA_010460365.1,Germany,Europe,2011,Other,"I 1,4,[5],12:i:-",,BAPS-3,no,,,,.,.,1,.,.,.
+GCA_010460565.1,assembly,NCBI,GCA_010460565.1,UK,Europe,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,.,1,.,1,1
+GCA_010470325.1,assembly,NCBI,GCA_010470325.1,USA,America,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_010538535.1,assembly,NCBI,GCA_010538535.1,USA,America,2015,Other,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,.,1
+GCA_010568085.1,assembly,NCBI,GCA_010568085.1,USA,America,2016,Other,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_010584845.1,assembly,NCBI,GCA_010584845.1,USA,America,2017,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_010593365.1,assembly,NCBI,GCA_010593365.1,UK,Europe,2015,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_010717635.1,assembly,NCBI,GCA_010717635.1,USA,America,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_010732495.1,assembly,NCBI,GCA_010732495.1,USA,America,2015,Other,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,.,1
+GCA_010752595.1,assembly,NCBI,GCA_010752595.1,USA,America,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,.,1,1,.,.,1
+GCA_010764535.1,assembly,NCBI,GCA_010764535.1,UK,Europe,2017,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_011121025.1,assembly,NCBI,GCA_011121025.1,USA,America,2016,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_011495605.1,assembly,NCBI,GCA_011495605.1,USA,America,2020,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,USA_1,.,1,1,1,.,.
+GCA_011550375.1,assembly,NCBI,GCA_011550375.1,UK,Europe,2014,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_011730155.1,assembly,NCBI,GCA_011730155.1,UK,Europe,2020,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_012051085.1,assembly,NCBI,GCA_012051085.1,China,East Asia,2013,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,.,1,.,1,1
+GCA_012051385.1,assembly,NCBI,GCA_012051385.1,China,East Asia,2013,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_013241565.1,assembly,NCBI,GCA_013241565.1,Australia,Oceania,2015,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_013242095.1,assembly,NCBI,GCA_013242095.1,Australia,Oceania,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,1,.,1,.,.,1
+GCA_013246165.1,assembly,NCBI,GCA_013246165.1,Australia,Oceania,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,VN2,1,1,1,.,.,1
+GCA_013260085.1,assembly,NCBI,GCA_013260085.1,Australia,Oceania,2015,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,1,1
+GCA_013264905.1,assembly,NCBI,GCA_013264905.1,Australia,Oceania,2015,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_013798485.1,assembly,NCBI,GCA_013798485.1,Canada,America,2013,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_014306475.1,assembly,NCBI,GCA_014306475.1,China,East Asia,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,1,1,.,.,1
+GCA_014365165.1,assembly,NCBI,GCA_014365165.1,USA,America,2020,human,"I 1,4,[5],12:i:-",,BAPS-1,no,,,Australia_1,1,.,1,.,.,1
+GCA_014818545.1,assembly,NCBI,GCA_014818545.1,USA,America,2020,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,USA_1,.,1,1,1,.,1
+GCA_015649525.1,assembly,NCBI,GCA_015649525.1,Japan,East Asia,2013,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_015697785.1,assembly,NCBI,GCA_015697785.1,China,East Asia,2017,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,1,1,.,.,1
+GCA_016407285.1,assembly,NCBI,GCA_016407285.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016407355.1,assembly,NCBI,GCA_016407355.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,,1,.,1,.,.,1
+GCA_016407475.1,assembly,NCBI,GCA_016407475.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016407645.1,assembly,NCBI,GCA_016407645.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016408005.1,assembly,NCBI,GCA_016408005.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016408035.1,assembly,NCBI,GCA_016408035.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016408075.1,assembly,NCBI,GCA_016408075.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016410325.1,assembly,NCBI,GCA_016410325.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016410855.1,assembly,NCBI,GCA_016410855.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016411065.1,assembly,NCBI,GCA_016411065.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016416155.1,assembly,NCBI,GCA_016416155.1,China,East Asia,2017,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016416175.1,assembly,NCBI,GCA_016416175.1,China,East Asia,2017,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016417895.1,assembly,NCBI,GCA_016417895.1,China,East Asia,2017,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016419045.1,assembly,NCBI,GCA_016419045.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016419155.1,assembly,NCBI,GCA_016419155.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016419485.1,assembly,NCBI,GCA_016419485.1,China,East Asia,2016,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,1,1,.,.,1
+GCA_016426555.1,assembly,NCBI,GCA_016426555.1,China,East Asia,2013,cattle&swine,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+GCA_016426585.1,assembly,NCBI,GCA_016426585.1,China,East Asia,2013,poultry,"I 1,4,[5],12:i:-",,BAPS-4,no,,,chrombla_China,.,.,1,.,.,1
+DRR022205,assembly,NCBI,DRR022205,Japan,East Asia,2009,human,"I 1,4,[5],12:i:-",,BAPS-4,no,,,SEA_min,1,.,1,.,1,1
