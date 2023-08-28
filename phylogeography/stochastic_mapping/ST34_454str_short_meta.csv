@@ -1,0 +1,455 @@
+﻿ID,Country,Region,year,host_class,serovar,presentation
+01_0012,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0014,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0024,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0048,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0050,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0052,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+01_0057,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0063,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+01_0067,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0119,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0158,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+01_0168,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0186,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+01_0204,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0234,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0254,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0271,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0273,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0280,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0284,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0286,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0287,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0294,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0309,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0396,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0410,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0436,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0452,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0464,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea
+01_0470,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0481,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0509,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea
+01_0510,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0528,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0534,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0600,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea
+01_0635,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0655,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0696,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0721,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea
+01_0742,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0753,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0785,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0792,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0835,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0849,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0854,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0860,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0900,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0906,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0907,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0931,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0934,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+01_0936,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+02_0005,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_0011,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_0030,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_0040,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_0069,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1006,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1023,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1035,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1041,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1042,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1051,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1060,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+02_1063,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+02_1064,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1071,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1089,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1190,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1193,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1206,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+02_1249,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1273,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1302,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1317,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1347,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1380,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1428,Vietnam,Southeast Asia,2015,human,Typhimurium,diarrhoea
+02_1439,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1447,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1449,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1481,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1489,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1508,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1510,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1566,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1587,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1636,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1644,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1675,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1687,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1688,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1701,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1716,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1796,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1871,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_1874,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2011,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2022,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2029,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2056,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2087,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2103,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2117,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2170,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+02_2184,Vietnam,Southeast Asia,2016,human,Typhimurium,diarrhoea
+03_0029,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0051,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0087,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0115,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0121,Vietnam,Southeast Asia,2014,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0122,Vietnam,Southeast Asia,2014,human,Typhimurium,diarrhoea
+03_0242,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0281,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0292,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0294,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0300,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0324,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0339,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0368,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0443,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0471,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0505,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0583,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0655,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0667,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0726,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0758,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0770,Vietnam,Southeast Asia,2015,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0876,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+03_0960,Vietnam,Southeast Asia,2016,human,"I 1,4,[5],12:i:-",diarrhoea
+110952,UK,Europe,2015,human,"I 1,4,[5],12:i:-", 
+157320,UK,Europe,2015,human,"I 1,4,[5],12:i:-", 
+178747,UK,Europe,2015,human,"I 1,4,[5],12:i:-", 
+192898,UK,Europe,2015,human,"I 1,4,[5],12:i:-", 
+197012,UK,Europe,2015,human,"I 1,4,[5],12:i:-", 
+2015K-1486,USA,America,2015,human,"I 1,4,[5],12:i:-", 
+273494,UK,Europe,2016,human,"I 1,4,[5],12:i:-", 
+287555,UK,Europe,2016,human,"I 1,4,[5],12:i:-", 
+296292,UK,Europe,2016,human,"I 1,4,[5],12:i:-", 
+320173,UK,Europe,2016,human,"I 1,4,[5],12:i:-", 
+323102,UK,Europe,2016,human,"I 1,4,[5],12:i:-", 
+333412,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+335526,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+335554,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+340265,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+341361,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+341369,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+342651,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+346524,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+346610,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+360514,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+362080,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+364206,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+365399,UK,Europe,2017,human,"I 1,4,[5],12:i:-", 
+45225,UK,Europe,2014,human,"I 1,4,[5],12:i:-", 
+68969,UK,Europe,2014,human,"I 1,4,[5],12:i:-", 
+71_G_450,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+71_H_034,Vietnam,Southeast Asia,2012,cattle,Typhimurium,asymptomatic
+71_H_035,Vietnam,Southeast Asia,2012,cattle,Typhimurium,asymptomatic
+71_H_051,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+71_H_052,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+71_H_053,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+71_H_455,Vietnam,Southeast Asia,2012,cattle,Typhimurium,asymptomatic
+72_H_033,Vietnam,Southeast Asia,2012,cattle,Typhimurium,asymptomatic
+72_H_265,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+73_G_047,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+73_G_049,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+73_G_050,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+73_G_051,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+73_H_129,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+73_H_172,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+73_H_243,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+74_H_072,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",diarrhoea
+74_H_125,Vietnam,Southeast Asia,2012,cattle,Typhimurium,diarrhoea
+74_H_126,Vietnam,Southeast Asia,2012,cattle,Typhimurium,asymptomatic
+74_H_253,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+74_H_256,Vietnam,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-",asymptomatic
+74_V_235,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+AUSMDU00002272,South East Asia,Southeast Asia,2013,human,Typhimurium, 
+AUSMDU00004546,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00004549,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00004555,Oceania,Oceania,2016,human,"I 1,4,[5],12:i:-", 
+AUSMDU00004556,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", 
+AUSMDU00005124,Oceania,Oceania,2016,cattle,"I 1,4,[5],12:i:-", 
+AUSMDU00005172,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00005177,Oceania,Oceania,2015,cattle,"I 1,4,[5],12:i:-", 
+AUSMDU00005189,Oceania,Oceania,2016,cattle,"I 1,4,[5],12:i:-", 
+AUSMDU00009663,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", 
+AUSMDU00009664,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", 
+AUSMDU00009670,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", 
+AUSMDU00011133,Oceania,Oceania,2017,cattle,"I 1,4,[5],12:i:-", 
+AUSMDU00011333,Oceania,Oceania,2015,cattle,"I 1,4,[5],12:i:-", 
+AUSMDU00017282,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", 
+AUSMDU00018340,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025519,Oceania,Oceania,2007,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025521,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025525,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025529,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025530,Oceania,Oceania,2013,human,Typhimurium, 
+AUSMDU00025538,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025539,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025543,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025546,South East Asia,Southeast Asia,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025548,South East Asia,Southeast Asia,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025553,South East Asia,Southeast Asia,2016,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025557,Oceania,Oceania,2016,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025560,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", 
+AUSMDU00025566,Oceania,Oceania,2017,human,"I 1,4,[5],12:i:-", 
+AUSMDU00026732,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", 
+AUSMDU00026734,Oceania,Oceania,2008,human,"I 1,4,[5],12:i:-", 
+AUSMDU00026744,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027903,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027906,South East Asia,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027915,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027917,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027920,South East Asia,Southeast Asia,2010,human,Typhimurium, 
+AUSMDU00027921,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027923,South East Asia,Southeast Asia,2010,human,Typhimurium, 
+AUSMDU00027925,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027929,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027930,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027933,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027934,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027935,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027936,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027937,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027941,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027942,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027944,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027945,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027947,Oceania,Oceania,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027950,Oceania,Oceania,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027951,South East Asia,Southeast Asia,2012,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027953,South East Asia,Southeast Asia,2013,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027954,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027958,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027961,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027965,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027966,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027967,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027968,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027969,South East Asia,Southeast Asia,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027982,Oceania,Oceania,2014,human,"I 1,4,[5],12:i:-", 
+AUSMDU00027991,Oceania,Oceania,2015,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028000,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028002,South East Asia,Southeast Asia,2007,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028006,Oceania,Oceania,2008,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028011,Oceania,Oceania,2009,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028020,Oceania,Oceania,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028021,South East Asia,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028024,South East Asia,Southeast Asia,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028026,Oceania,Oceania,2011,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028036,South East Asia,Southeast Asia,2013,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028037,Oceania,Oceania,2013,human,"I 1,4,[5],12:i:-", 
+AUSMDU00028039,Oceania,Oceania,2013,human,Typhimurium, 
+CB12.026,Taiwan,East Asia,2012,human,"I 1,4,[5],12:i:-", 
+CFSAN042373,Vietnam,Southeast Asia,2015,fish,"I 1,4,[5],12:i:-", 
+CFSAN044591,USA,America,2014,cattle,"I 1,4,[5],12:i:-", 
+CFSAN044637,USA,America,2014,poultry,"I 1,4,[5],12:i:-", 
+CFSAN074889,Thailand,Southeast Asia,2010,cattle,"I 1,4,[5],12:i:-", 
+CFSAN074894,Thailand,Southeast Asia,2010,0,"I 1,4,[5],12:i:-", 
+CFSAN074906,Thailand,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-", 
+CFSAN074911,Thailand,Southeast Asia,2012,cattle,"I 1,4,[5],12:i:-", 
+CFSAN094567,Cambodia,Southeast Asia,2018,environment,"I 1,4,[5],12:i:-", 
+CFSAN094593,Cambodia,Southeast Asia,2018,environment,"I 1,4,[5],12:i:-", 
+CT49_2,Vietnam,Southeast Asia,2012,poultry,Typhimurium,asymptomatic
+CT55_1,Vietnam,Southeast Asia,2012,poultry,Typhimurium,asymptomatic
+CT69_2,Vietnam,Southeast Asia,2013,poultry,"I 1,4,[5],12:i:-",asymptomatic
+CVM_N48691,USA,America,2013,cattle,"I 1,4,[5],12:i:-", 
+CVM_N56913F,USA,America,2014,cattle,"I 1,4,[5],12:i:-", 
+CVM_N56914F,USA,America,2014,cattle,"I 1,4,[5],12:i:-", 
+CVM_N57161F,USA,America,2014,cattle,"I 1,4,[5],12:i:-", 
+CVM_N57625F,USA,America,2014,cattle,"I 1,4,[5],12:i:-", 
+FDA426234,Vietnam,Southeast Asia,2007,fish,Typhimurium, 
+FSIS1503567,USA,America,2015,cattle,"I 1,4,[5],12:i:-", 
+FSIS1503595,USA,America,2015,cattle,"I 1,4,[5],12:i:-", 
+FSIS1503596,USA,America,2015,cattle,"I 1,4,[5],12:i:-", 
+FSIS1503915,USA,America,2015,poultry,"I 1,4,[5],12:i:-", 
+FSIS1504940,USA,America,2015,cattle,"I 1,4,[5],12:i:-", 
+FSIS1605910,USA,America,2016,poultry,"I 1,4,[5],12:i:-", 
+FSIS1606634,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+FSIS1606873,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+FSIS1607242,USA,America,2016,poultry,"I 1,4,[5],12:i:-", 
+FSIS1607340,USA,America,2016,poultry,"I 1,4,[5],12:i:-", 
+FSIS1607481,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+FSIS1607648,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+FSIS1607909,USA,America,2016,poultry,"I 1,4,[5],12:i:-", 
+FSIS1607911,USA,America,2015,poultry,"I 1,4,[5],12:i:-", 
+FSIS1608032,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+FSIS1608557,USA,America,2016,cattle,"I 1,4,[5],12:i:-", 
+G3,Australia,Oceania,2010,human,"I 1,4,[5],12:i:-", 
+H1-009,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+H1-014,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+H1-021,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+H1-022,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+H1-026,Thailand,Southeast Asia,2009,human,"I 1,4,[5],12:i:-", 
+H1-027,Thailand,Southeast Asia,2010,human,"I 1,4,[5],12:i:-", 
+H120600619,UK,Europe,2012,human,"I 1,4,[5],12:i:-", 
+H122040374,UK,Europe,2012,human,"I 1,4,[5],12:i:-", 
+H123100308,UK,Europe,2012,human,"I 1,4,[5],12:i:-", 
+H123560737,UK,Europe,2012,human,"I 1,4,[5],12:i:-", 
+H123840458,UK,Europe,2012,human,"I 1,4,[5],12:i:-", 
+H133220570,UK,Europe,2013,human,"I 1,4,[5],12:i:-", 
+H133280322,UK,Europe,2013,human,"I 1,4,[5],12:i:-", 
+H133320432,UK,Europe,2013,human,"I 1,4,[5],12:i:-", 
+Hue_11,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+ID8430_Sal_6,Thailand,Southeast Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+ID8441_193,Thailand,Southeast Asia,2013,cattle,"I 1,4,[5],12:i:-", 
+ID8447_541013,Thailand,Southeast Asia,2011,cattle,"I 1,4,[5],12:i:-", 
+MT13C.2.2,Vietnam,Southeast Asia,2012,poultry,"I 1,4,[5],12:i:-",asymptomatic
+NG14.043,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+PNUSAS000175,USA,America,2014,human,"I 1,4,[5],12:i:-", 
+PNUSAS000178,USA,America,2015,human,"I 1,4,[5],12:i:-", 
+PNUSAS001315,USA,America,2015,human,"I 1,4,[5],12:i:-", 
+PNUSAS003939,USA,America,2011,human,"I 1,4,[5],12:i:-", 
+PNUSAS003983,USA,America,2013,human,"I 1,4,[5],12:i:-", 
+PNUSAS004004,USA,America,2015,human,"I 1,4,[5],12:i:-", 
+PS32,Taiwan,East Asia,2012,cattle,"I 1,4,[5],12:i:-", 
+R14.0620,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+R14.0884,Taiwan,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+R15.0270,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", 
+R15.0289,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", 
+R15.0291,Taiwan,East Asia,2015,human,"I 1,4,[5],12:i:-", 
+R16.0067,Taiwan,East Asia,2016,human,"I 1,4,[5],12:i:-", 
+R16.0302,Taiwan,East Asia,2015,cattle,"I 1,4,[5],12:i:-", 
+R16.0309,Taiwan,East Asia,2015,cattle,"I 1,4,[5],12:i:-", 
+R16.0359,Taiwan,East Asia,2015,cattle,"I 1,4,[5],12:i:-", 
+R16.3277,Taiwan,East Asia,2016,human,"I 1,4,[5],12:i:-", 
+R17.5127,Taiwan,East Asia,2017,human,"I 1,4,[5],12:i:-", 
+R18.0409,Taiwan,East Asia,2018,human,"I 1,4,[5],12:i:-", 
+S12025,China,East Asia,2012,human,"I 1,4,[5],12:i:-", 
+S12095,China,East Asia,2012,human,"I 1,4,[5],12:i:-", 
+S14002,China,East Asia,2015,human,"I 1,4,[5],12:i:-", 
+S14034,China,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+S14035,China,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+S14037,China,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+S14038,China,East Asia,2014,human,"I 1,4,[5],12:i:-", 
+SAL01315,China,East Asia,2017,cattle,"I 1,4,[5],12:i:-", 
+SAMD00097502,Japan,East Asia,2013,cattle,"I 1,4,[5],12:i:-", 
+SAMD00097505,Japan,East Asia,2008,cattle,"I 1,4,[5],12:i:-", 
+SAMD00097511,Japan,East Asia,2002,cattle,"I 1,4,[5],12:i:-", 
+SAMD00097512,Japan,East Asia,2007,human,"I 1,4,[5],12:i:-", 
+SAMD00234571,Japan,East Asia,2003,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234613,Japan,East Asia,2016,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234685,Japan,East Asia,2013,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234687,Japan,East Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234694,Japan,East Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234746,Japan,East Asia,2015,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234754,Japan,East Asia,2017,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234762,Japan,East Asia,2017,cattle,"I 1,4,[5],12:i:-", 
+SAMD00234768,Japan,East Asia,2009,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027175,Italy,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027178,Italy,Europe,2008,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027180,UK,Europe,2010,human,"I 1,4,[5],12:i:-", 
+SAMEA1027186,Italy,Europe,2009,human,"I 1,4,[5],12:i:-", 
+SAMEA1027200,Italy,Europe,2007,poultry,"I 1,4,[5],12:i:-", 
+SAMEA1027203,Italy,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027210,Italy,Europe,2008,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027216,Italy,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027217,UK,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027218,UK,Europe,2010,human,"I 1,4,[5],12:i:-", 
+SAMEA1027225,UK,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027228,Italy,Europe,2006,fish,"I 1,4,[5],12:i:-", 
+SAMEA1027232,UK,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027240,Italy,Europe,2006,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027252,Italy,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027257,UK,Europe,2007,human,"I 1,4,[5],12:i:-", 
+SAMEA1027258,Italy,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027259,Italy,Europe,2007,cattle,"I 1,4,[5],12:i:-", 
+SAMEA1027275,Italy,Europe,2008,cattle,"I 1,4,[5],12:i:-", 
+SAMEA4787837,Cambodia,Southeast Asia,2016,cattle,"I 1,4,[5],12:i:-", 
+SAMEA4787839,Cambodia,Southeast Asia,2016,cattle,"I 1,4,[5],12:i:-", 
+SAMEA6101000,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", 
+SAMEA6101024,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", 
+SAMEA6101030,China,East Asia,2018,poultry,"I 1,4,[5],12:i:-", 
+SAMEA7114052,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", 
+SAMEA7114053,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", 
+SAMEA7115303,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", 
+SAMEA7115313,Laos,Southeast Asia,,human,"I 1,4,[5],12:i:-", 
+SAMEA788091,UK,Europe,2007,cattle,"I 1,4,[5],12:i:-", 
+SAMEA788092,UK,Europe,2007,cattle,"I 1,4,[5],12:i:-", 
+SAMEA788097,UK,Europe,2007,cattle,"I 1,4,[5],12:i:-", 
+SAMEA788098,UK,Europe,2007,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819708,UK,Europe,2008,poultry,"I 1,4,[5],12:i:-", 
+SAMEA819709,UK,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819712,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", 
+SAMEA819732,UK,Europe,2008,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819738,UK,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819740,UK,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819742,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", 
+SAMEA819747,UK,Europe,2009,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819756,UK,Europe,2009,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819758,UK,Europe,2006,cattle,"I 1,4,[5],12:i:-", 
+SAMEA819765,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", 
+SAMEA819782,UK,Europe,2010,poultry,"I 1,4,[5],12:i:-", 
+SAMEA819784,UK,Europe,2010,cattle,"I 1,4,[5],12:i:-", 
+SAMEA8474053,Vietnam,Southeast Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+SAMEA8474055,Vietnam,Southeast Asia,2014,cattle,Typhimurium, 
+SAMEA8474059,Vietnam,Southeast Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+SAMEA8474061,Vietnam,Southeast Asia,2014,cattle,"I 1,4,[5],12:i:-", 
+SM-112,Thailand,Southeast Asia,2019,poultry,"I 1,4,[5],12:i:-", 
+SM-146,Thailand,Southeast Asia,2016,cattle,"I 1,4,[5],12:i:-", 
+SRR3474692,USA,America,2012,environment,"I 1,4,[5],12:i:-", 
+VA-WGS-00440,USA,America,2015,cattle,"I 1,4,[5],12:i:-", 
+VNB1140,Vietnam,Southeast Asia,2010,human,Typhimurium,blood
+VNB1166,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",blood
+VNB1222,Vietnam,Southeast Asia,2010,human,Typhimurium,blood
+VNB1264,Vietnam,Southeast Asia,2011,human,Typhimurium,blood
+VNB1436,Vietnam,Southeast Asia,2011,human,"I 1,4,[5],12:i:-",blood
+VNB1479,Vietnam,Southeast Asia,2011,human,"I 1,4,[5],12:i:-",blood
+VNB1505,Vietnam,Southeast Asia,2011,human,Typhimurium,blood
+VNB151,Vietnam,Southeast Asia,2008,human,Typhimurium,blood
+VNB1701,Vietnam,Southeast Asia,2012,human,Typhimurium,blood
+VNB176,Vietnam,Southeast Asia,2008,human,Typhimurium,blood
+VNB1779,Vietnam,Southeast Asia,2012,human,Typhimurium,blood
+VNB177,Vietnam,Southeast Asia,2008,human,Typhimurium,blood
+VNB1792,Vietnam,Southeast Asia,2012,human,"I 1,4,[5],12:i:-",blood
+VNB2140,Vietnam,Southeast Asia,2012,human,Typhimurium,blood
+VNB2315,Vietnam,Southeast Asia,2013,human,"I 1,4,[5],12:i:-",blood
+VNB2605,Vietnam,Southeast Asia,2013,human,"I 1,4,[5],12:i:-",blood
+VNB455,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",blood
+VNB541,Vietnam,Southeast Asia,2009,human,Typhimurium,blood
+VNB589,Vietnam,Southeast Asia,2009,human,Typhimurium,blood
+VNB617,Vietnam,Southeast Asia,2009,human,Typhimurium,blood
+VNB692,Vietnam,Southeast Asia,2009,human,Typhimurium,blood
+VNB712,Vietnam,Southeast Asia,2009,human,Typhimurium,blood
+VNB745,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",blood
+VNB802,Vietnam,Southeast Asia,2010,human,Typhimurium,blood
+VNB845,Vietnam,Southeast Asia,2010,human,Typhimurium,blood
+VNB922,Vietnam,Southeast Asia,2010,human,Typhimurium,blood
+VNS10045,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS10052,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS10146,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS10182,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS10314,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS10413,Vietnam,Southeast Asia,2010,human,Typhimurium,diarrhoea
+VNS20005,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS20007,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS20081,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS20099,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS20101,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS20235,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS30144,Vietnam,Southeast Asia,2009,human,Typhimurium,diarrhoea
+VNS30243,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS30356,Vietnam,Southeast Asia,2009,human,"I 1,4,[5],12:i:-",diarrhoea
+VNS30385,Vietnam,Southeast Asia,2010,human,Typhimurium,diarrhoea
+VNSC2045,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",asymptomatic
+VNSC2191,Vietnam,Southeast Asia,2010,human,"I 1,4,[5],12:i:-",asymptomatic
+Z028,China,East Asia,2012,human,"I 1,4,[5],12:i:-", 
+Z033,China,East Asia,2012,human,"I 1,4,[5],12:i:-", 
+Z047,China,East Asia,2014,human,"I 1,4,[5],12:i:-", 
