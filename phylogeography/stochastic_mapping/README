@@ -1,0 +1,6 @@
+The following files are used for stochastic mapping analysis
+
+1/ RAxML_bipartitions.raxml_ST34rmblk_454str.japanroot.newick: maximum likelyhood phylogeny of the original 454 ST34 genomes
+2/ ST34_454str_short_meta.csv: metadata containing geography for 454 ST34 genomes
+3/ RAxML_bipartitions.raxml2_ST34_core_561str_postgubbins.jprooted.newick: maximum likelihood phylogeny based on core genome reconstruction of 561 ST34 genomes (after addition of >100 isolates carrying blaCTX-M-55 or mcr-3.1)
+4/ ST34_561str_short_meta.csv: metadata containing geography informaiton for 561 ST34 genomes
