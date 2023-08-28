@@ -1,0 +1,7 @@
+This directory contains xml files (of the tested best model) used to infer phylogeography transitions under the  discrete trait model (mugration model), implemented in BEAST v1.10.4. 
+
+Transitions between states are estimated under the asymmetric model of Bayesian Stochastic Search Variable Selection -BSSVS. 
+
+Two sets of xmls are created and run:
+1/ Three technical replicates from 222 ST34 genomes as outlined in the divergence time analysis (Figure 2 in the paper; America: 18; East Asia: 32; Europe: 39; Oceania: 18; Southeast Asia: 115)
+2/ Three technical replicates from 256 ST34 genomes with the inclusion of blaCTX-M-55 positive genomes in a more balanced sampling scheme (America: 39; East Asia: 50; Europe: 56; Oceania: 42; Southeast Asia: 69)
