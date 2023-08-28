@@ -1,0 +1,67 @@
+			Phe	Phe	Leu	Leu	Ser	Ser	Ser	Ser	Tyr	Tyr	STOP	STOP	Cys	Cys	STOP	Trp	Leu	Leu	Leu	Leu	Pro	Pro	Pro	Pro	His	His	Gln	Gln	Arg	Arg	Arg	Arg	Ile	Ile	Ile	Met	Thr	Thr	Thr	Thr	Asn	Asn	Lys	Lys	Ser	Ser	Arg	Arg	Val	Val	Val	Val	Ala	Ala	Ala	Ala	Asp	Asp	Glu	Glu	Gly	Gly	Gly	Gly
+			UUU	UUC	UUA	UUG	UCU	UCC	UCA	UCG	UAU	UAC	UAA	UAG	UGU	UGC	UGA	UGG	CUU	CUC	CUA	CUG	CCU	CCC	CCA	CCG	CAU	CAC	CAA	CAG	CGU	CGC	CGA	CGG	AUU	AUC	AUA	AUG	ACU	ACC	ACA	ACG	AAU	AAC	AAA	AAG	AGU	AGC	AGA	AGG	GUU	GUC	GUA	GUG	GCU	GCC	GCA	GCG	GAU	GAC	GAA	GAG	GGU	GGC	GGA	GGG
+			1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	37	38	39	40	41	42	43	44	45	46	47	48	49	50	51	52	53	54	55	56	57	58	59	60	61	62	63	64
+Phe	UUU	1	1	3	4	4	5				4		0	0	4		0		5																4																4															
+Phe	UUC	2		1	4	4		5				4	0	0		4	0			5																4																4														
+Leu	UUA	3			1	3			5				4	0			4				3																4																4													
+Leu	UUG	4				1				5			0	4			0	4				3																4																4												
+Ser	UCU	5					1	3	2	2	4		0	0	4		0						5																4																4											
+Ser	UCC	6						1	2	2		4	0	0		4	0							5																4																4										
+Ser	UCA	7							1	3			4	0			4								5																4																4									
+Ser	UCG	8								1			0	4			0	4								5																4																4								
+Tyr	UAU	9									1	3	4	4	5		0										5																4																4							
+Tyr	UAC	10										1	4	4		5	0											5																4																4						
+STOP	UAA	11	0	0	0	0	0	0	0	0	0	0	1	3	0	0	3	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0
+STOP	UAG	12	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0
+Cys	UGU	13											0	0	1	3	4	4													5																4																4			
+Cys	UGC	14											0	0		1	4	4														5																4																4		
+STOP	UGA	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0
+Trp	UGG	16											0	0			0	1																5																4																4
+Leu	CUU	17											0	0			0		1	3	2	2	5				4				4				4																4															
+Leu	CUC	18											0	0			0			1	2	2		5				4				4				4																4														
+Leu	CUA	19											0	0			0				1	3			5				4				4				4																4													
+Leu	CUG	20											0	0			0					1				5				4				4				4																4												
+Pro	CCU	21											0	0			0						1	3	2	2	4				4								4																4											
+Pro	CCC	22											0	0			0							1	2	2		4				4								4																4										
+Pro	CCA	23											0	0			0								1	3			4				4								4																4									
+Pro	CCG	24											0	0			0									1				4				4								4																4								
+His	CAU	25											0	0			0										1	3	4	4	5												4																4							
+His	CAC	26											0	0			0											1	4	4		5												4																4						
+Gln	CAA	27											0	0			0												1	3			5												4																4					
+Gln	CAG	28											0	0			0													1				5												4																4				
+Arg	CGU	29											0	0			0														1	3	2	2													4																4			
+Arg	CGC	30											0	0			0															1	2	2														4																4		
+Arg	CGA	31											0	0			0																1	3															2																4	
+Arg	CGG	32											0	0			0																	1																2																4
+Ile	AUU	33											0	0			0																		1	3	2	4	5				4				4				5															
+Ile	AUC	34											0	0			0																			1	2	4		5				4				4				5														
+Ile	AUA	35											0	0			0																				1	5			5				4				4				5													
+Met	AUG	36											0	0			0																					1				5				4				4				5												
+Thr	ACU	37											0	0			0																						1	3	2	2	4				4								5											
+Thr	ACC	38											0	0			0																							1	2	2		4				4								5										
+Thr	ACA	39											0	0			0																								1	3			4				4								5									
+Thr	ACG	40											0	0			0																									1				4				4								5								
+Asn	AAU	41											0	0			0																										1	3	4	4	5												5							
+Asn	AAC	42											0	0			0																											1	4	4		5												5						
+Lys	AAA	43											0	0			0																												1	3			5												5					
+Lys	AAG	44											0	0			0																													1				5												5				
+Ser	AGU	45											0	0			0																														1	3	4	4													5			
+Ser	AGC	46											0	0			0																															1	4	4														5		
+Arg	AGA	47											0	0			0																																1	3															5	
+Arg	AGG	48											0	0			0																																	1																5
+Val	GUU	49											0	0			0																																		1	3	2	2	5				4				4			
+Val	GUC	50											0	0			0																																			1	2	2		5				4				4		
+Val	GUA	51											0	0			0																																				1	3			5				4				4	
+Val	GUG	52											0	0			0																																					1				5				4				4
+Ala	GCU	53											0	0			0																																						1	3	2	2	4				4			
+Ala	GCC	54											0	0			0																																							1	2	2		4				4		
+Ala	GCA	55											0	0			0																																								1	3			4				4	
+Ala	GCG	56											0	0			0																																									1				4				4
+Asp	GAU	57											0	0			0																																										1	3	4	4	5			
+Asp	GAC	58											0	0			0																																											1	4	4		5		
+Glu	GAA	59											0	0			0																																												1	3			5	
+Glu	GAG	60											0	0			0																																													1				5
+Gly	GGU	61											0	0			0																																														1	3	2	2
+Gly	GGC	62											0	0			0																																															1	2	2
+Gly	GGA	63											0	0			0																																																1	3
+Gly	GGG	64											0	0			0																																																	1
