@@ -1,0 +1,19 @@
+This directory contains files necessary to perform mutation analysis on the global evolution of ST34, as well as to recreate Table 2 in the paper.
+
+Several input files are needed to process as directed in the R script file
+
+1/ All output from SnpEff and SnpSift to annotate SNP mutation of each isolate on the ST34 reference TWStm6: annotation_files.zip
+2/ SNP alignment of 454 ST34 genomes after removal of recombination by Gubbins: ST34_only_454str_bwafrbTWStm6_cons_rmblk.snp.fa
+3/ The original position of the SNP alignment: snp_alignment_TWStm6_position.csv
+4/ Position of tRNA coding sequences on the reference TWStm6: TWStm6_tRNA-list.csv
+5/ Annotation for each CDS in the reference TWStm6: TWStm6_all_CDS_list.csv
+--> All these were then used to create a summary file to include the details of each SNP, which is exported and edited if needed. 
+
+6/ Edited SNP metadata file: ST34_454str_rmblk_snp_metadata_edit.txt
+7/ Fasta file of the reference: TWStm6.fa
+8/ Maximum likelihood phylogeny of 454 ST34: RAxML_bipartitions.raxml_ST34rmblk_454str.japanroot.newick
+9/ Ancestral reconstruction output file (NEXUS) from PAML: ST34_454str_ancrecon_tree_internalnodelayout.nexus
+10/ Genbank file of TWStm6: TWStm6.gbk
+11/ Fasta file of ancestral reconstructed nucleotide for each position in the SNP alignment (by PAML): ST34_454str_paml_ancrecon_joint_reconstruction.fasta
+12/ Matrix defining the types of substitions: Codon_change_types.txt
+13/ kappa = 5.2 as estimated by PhyML under the HKY85 model. 
