@@ -1,0 +1,8 @@
+This directory contains files necessary to recreate the major visualization in the manuscript. These include: 
+
+1/ BEAST output phylogeny: ST34_222str_constr.rlxlg.exp.combined.best.tre
+2/ Resistance gene matrix: ST34_454str_abricate_summary_edit2.txt
+3/ Plasmid Inctype matrix: ST34_plasmidfinder_summary.csv
+4/ Maximum likelihood phylogeny of 454 ST34 genomes: RAxML_bipartitions.raxml_ST34rmblk_454str
+5/ Global phylogeny of 329 ST34 genomes after inclusion of blaCTX-M-55 positive isolates: RAxML_bipartitions.raxml_ST34_panaroocore_329str
+6/ Supplementary table 1: Supplementary_Data_1.csv
